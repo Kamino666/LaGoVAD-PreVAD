@@ -1,0 +1,448 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>视频播放页面</title>
+    <!-- 引入 Bootstrap CSS -->
+    <link rel="stylesheet" href="/static/css/bootstrap.css">
+    <style>
+        /* 自定义样式 */
+        .row {
+            margin-top: 20px;
+        }
+        .video-list-col, .control-buttons-col {
+            padding: 0;
+        }
+        .video-list-col {
+            background-color: #f8f9fa; /* 视频列表列的背景色 */
+        }
+        .video-player-col {
+            background-color: #fff; /* 视频播放器列的背景色 */
+        }
+        .control-buttons-col {
+            background-color: #e9ecef; /* 控制按钮列的背景色 */
+        }
+        #video-list {
+            overflow-y: auto;
+            max-height: 600px;
+        }
+        #annot-list {
+            overflow-y: auto;
+            max-height: 450px;
+            padding-left: 15px;
+            width: 95%;
+        }
+        .label-btn {
+            width: 100%;
+            padding: 0;
+            border-radius: 0;
+        }
+        .label-btn-div{
+            padding-right: 2px;
+            padding-left: 2px;
+            flex: 0 0 auto;
+            width: 11.111111111%;
+        }
+        .label-title-btn{
+            padding-right: 2px;
+            padding-left: 2px;
+            flex: 0 0 auto;
+            width: 11.111111111%;
+        }
+    </style>
+</head>
+<body>
+    <div class="container-md">
+        <div class="row" style="margin-top:5px;">
+            <h1>视频标注工具 developed by Kamino</h1>
+            <p style="margin:0">&nbsp← →：控制进度条  &nbsp;&nbsp;&nbsp;   ↑↓：切换视频   &nbsp;&nbsp;&nbsp;   空格：播放暂停 &nbsp;&nbsp;&nbsp; x：视频播放速度-0.5  &nbsp;&nbsp;&nbsp;    c：视频播放速度+0.5   &nbsp;&nbsp;&nbsp;    z：视频播放速度重置为1.0</p>
+            <p style="margin:0">&nbsp1-9：选择下面浅蓝色的预定义标签标记当前播放时间点   &nbsp;&nbsp;&nbsp;   0：标记视频为invalid    &nbsp;&nbsp;&nbsp;   w/s：切换标签组</p>
+        </div>
+        <!-- 上方标签 -->
+        <div class="row" style="margin-top:0;">
+            <div class="col label-title-btn"><button type="button" class="btn btn-outline-link label-btn btn-sm" disabled> 1 </button></div>
+            <div class="col label-title-btn"><button type="button" class="btn btn-outline-link label-btn btn-sm" disabled> 2 </button></div>
+            <div class="col label-title-btn"><button type="button" class="btn btn-outline-link label-btn btn-sm" disabled> 3 </button></div>
+            <div class="col label-title-btn"><button type="button" class="btn btn-outline-link label-btn btn-sm" disabled> 4 </button></div>
+            <div class="col label-title-btn"><button type="button" class="btn btn-outline-link label-btn btn-sm" disabled> 5 </button></div>
+            <div class="col label-title-btn"><button type="button" class="btn btn-outline-link label-btn btn-sm" disabled> 6 </button></div>
+            <div class="col label-title-btn"><button type="button" class="btn btn-outline-link label-btn btn-sm" disabled> 7 </button></div>
+            <div class="col label-title-btn"><button type="button" class="btn btn-outline-link label-btn btn-sm" disabled> 8 </button></div>
+            <div class="col label-title-btn"><button type="button" class="btn btn-outline-link label-btn btn-sm" disabled> 9 </button></div>
+        </div>
+        <div id="label-row" class="row" style="margin-top:0;">
+            <div id="row-select-idx" data-row-select-idx="1"></div>
+            {% for label in ch_labels %}
+                <div class="col label-btn-div">
+                    <button type="button" class="btn btn-outline-primary label-btn btn-sm" disabled data-label-idx="{{ loop.index }}">{{ label }}</button>
+                </div>
+            {% endfor %}
+        </div>
+        <div class="row" style="margin-top:5px;">
+            <!-- 左侧视频列表 -->
+            <div class="col-md-3 video-list-col">
+                <div class="list-group" id="video-list">
+                    {% for video in videos %}
+                    <a href="#" class="list-group-item list-group-item-action d-flex justify-content-between align-items-center {% if loop.index0 == 0 %}active{% endif %}" data-video-src="{{ video.src }}">{{ video.title }}{% if video.has_annot %}<span class="badge bg-primary rounded-pill">1</span>{% endif %}</a>
+                    {% endfor %}
+                </div>
+            </div>
+
+            <!-- 中间视频播放器 -->
+            <div class="col-md-7 video-player-col d-flex align-items-center justify-content-center">
+                <div class="embed-responsive embed-responsive-16by9">
+                    <!-- 视频 -->
+                    <video class="embed-responsive-item" id="video-player" controls style="width: auto; height: auto; max-height: 600px; max-width: 100%; object-fit: cover">
+                        <!-- 视频源将根据视频列表选择动态添加 -->
+                        <source id="video-source" type="video/mp4">
+                        Your browser does not support the video tag.
+                    </video>
+                    <!-- 进度条容器 -->
+                    <div id="progressBar" class="progress">
+                        <div class="progress-bar progress-bar-striped" role="progressbar" style="width: 0%;" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"></div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 右侧按钮 -->
+            <div class="col-md-2 control-buttons-col">
+                <div class="row">
+                    <p id="playRateText">播放速度：1x</p>
+                </div>
+                <div class="row align-items-center" style="margin-top: 0">
+                    <div class="col">
+                        <button id="backup-annot-btn" type="button" class="btn btn-success w-100">一键备份</button>
+                    </div>
+                    <div class="col">
+                        <button id="del-annot-btn" type="button" class="btn btn-warning w-100">删除标签</button>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="list-group list-group-flush" id="annot-list">
+                        <!-- 标注 -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- 引入 Bootstrap -->
+    <script src="/static/js/bootstrap.js"></script>
+    <script src="/static/js/jquery-3.7.1.min.js"></script>
+    <script>
+        // JavaScript 代码来处理视频播放和控制按钮
+        $(document).ready(function() {
+            var $videoPlayer = $('#video-player');
+            var $videoSource = $('#video-source');
+            var $videoList = $('#video-list .list-group-item');
+            var $labelBtns = $('#label-row .label-btn');
+            var currPlayRate = 1.0;
+            //const $labelList = $labelBtns.map(function () {
+            //    return $(this).text();
+            //}).get();
+            var $labelList;
+            $.ajax({
+                type: "GET",
+                url: "/labels",
+                success: function (data) {
+                    $labelList = data.labels
+                }
+            })
+
+
+            // 检测高亮项目并播放视频的函数
+            function playHighlightedVideo() {
+                // 找到高亮的项目
+                var $activeItem = $videoList.filter('.active');
+
+                // 如果找到了高亮的项目，更新视频源并播放
+                if ($activeItem.length) {
+                    var videoSrc = $activeItem.data('video-src');
+                    $videoSource.attr('src', videoSrc);
+                    $videoPlayer[0].load(); // 加载新的视频源
+                    $videoPlayer[0].play(); // 播放视频
+                    set_play_rate(currPlayRate);
+                    scrollToActive();
+                }
+            }
+
+            function putAnnotationToHtml(data) {
+                $('#annot-list').empty(); // 清空现有列表
+                data.annotations.forEach(function (item) {
+                    $('#annot-list').append($('<a>')
+                        .attr('href', '#')
+                        .addClass('list-group-item list-group-item-action')
+                        .text(item[0] + ' ' + item[1]));
+                });
+            }
+
+            function loadAnnotationVideo(vid_name) {
+                // 加载annotation
+                $.ajax({
+                    url: '/get_annots/' + vid_name,
+                    type: 'GET',
+                    success: function (data){
+                        putAnnotationToHtml(data);
+                    },
+                    error: function (jqXHR, textStatus, errorThrown) {
+                        if (jqXHR.status === 404){
+                            $('#annot-list').empty(); // 清空现有列表
+                        }
+                    }
+                });
+            }
+
+            // 标签行选择
+            function label_row_select(mod_value) {
+                let rowSel = $('#row-select-idx');
+                var rowIdx = parseInt(rowSel.data('row-select-idx'));
+                var label_row = $('#label-row');
+                const max_num_row = Math.ceil(label_row.find('.label-btn-div').length / 9);
+                if (rowIdx+mod_value > max_num_row || rowIdx+mod_value<1){
+                    return 0;
+                }
+                else{
+                    rowSel.data('row-select-idx', String(rowIdx+mod_value));
+                    rowIdx = parseInt(rowSel.data('row-select-idx'));
+                    // 更新高亮
+                    $labelBtns.each(function () {
+                        var currIdx = $(this).data('label-idx');
+                        if (currIdx > (rowIdx-1)*9 && currIdx <= rowIdx*9){
+                            $(this).removeClass('btn-outline-primary');
+                            $(this).addClass('btn-primary');
+                        }
+                        else{
+                            $(this).removeClass('btn-primary');
+                            $(this).addClass('btn-outline-primary');
+                        }
+                    })
+                }
+            }
+
+            // 打标签
+            function add_label(col_idx) {
+                // 获取所指标签
+                let rowSel = $('#row-select-idx');
+                let rowIdx = parseInt(rowSel.data('row-select-idx'));
+                let realIdx = ((rowIdx-1)*9+col_idx) - 1;  // start from 0
+                let realLabel;
+                if (col_idx > 0){
+                    realLabel = $labelList[realIdx];
+                }
+                else{
+                    realLabel = 'Invalid';
+                }
+
+                // 获取当前视频播放秒数
+                let currentTime = $videoPlayer[0].currentTime;
+
+                // 发送添加请求
+                var videoName = $videoList.filter('.active').text();
+                $.ajax({
+                    type: 'POST',
+                    url: '/update_annots/' + videoName,
+                    data: {
+                        class_name: realLabel,
+                        timestamp: currentTime,
+                        action: 'add',
+                    },
+                    success: function (data) {
+                        putAnnotationToHtml(data);
+                    },
+                    error: function (data) {
+                        loadAnnotationVideo(videoName);
+                    }
+                })
+            }
+
+            // 切换视频
+            function switch_video(value) {
+                var $activeItem = $videoList.filter('.active');
+                var $tgtItem;
+                if (value === -1){
+                    $tgtItem = $activeItem.prev('.list-group-item');
+                }
+                else{
+                    $tgtItem = $activeItem.next('.list-group-item');
+                }
+                if ($tgtItem.length > 0){
+                    // 移除所有列表项的 'active' 类
+                    $videoList.removeClass('active');
+                    // 添加 'active' 类到被点击的列表项
+                    $tgtItem.addClass('active');
+                    // 更新视频播放器
+                    playHighlightedVideo();
+                    // 加载annotation
+                    loadAnnotationVideo($tgtItem.text());
+                    // 滚动到指定地方
+                    scrollToActive();
+                }
+            }
+
+            // 设置播放速度
+            function set_play_rate(rate) {
+                $videoPlayer[0].playbackRate = rate;
+                $('#playRateText').text('播放速度：' + rate + 'x');
+            }
+
+            // 滚动到active的视频item
+            function scrollToActive() {
+                var $videoGroup = $('#video-list')[0];
+                var activeItems = $videoGroup.getElementsByClassName('active');
+
+                if (activeItems.length > 0) {
+                    // 获取最后一个active的list-group-item
+                    var lastActiveItem = activeItems[activeItems.length - 1];
+                    // 计算滚动位置
+                    $videoGroup.scrollTop = lastActiveItem.offsetTop - $videoGroup.offsetTop;
+                }
+            }
+
+            // 选中视频时
+            $('#video-list a').on('click', function(e) {
+                // 移除所有列表项的 'active' 类
+                $videoList.removeClass('active');
+                // 添加 'active' 类到被点击的列表项
+                $(this).addClass('active');
+                // 更新视频播放器
+                playHighlightedVideo();
+                // 加载annotation
+                var vid_name = $(this).text();
+                loadAnnotationVideo(vid_name);
+            });
+
+            // 选中标注
+            $('#annot-list').on('click', 'a', function(e) {
+                // 移除所有列表项的 'active' 类
+                var $annoList = $('#annot-list .list-group-item');
+                $annoList.removeClass('active');
+                // 添加 'active' 类到被点击的列表项
+                $(this).addClass('active');
+            });
+
+            $('#play-btn').on('click', function() {
+                var videoPlayer = document.getElementById('video-player');
+                videoPlayer.play();
+            });
+
+            $('#pause-btn').on('click', function() {
+                var videoPlayer = document.getElementById('video-player');
+                videoPlayer.pause();
+            });
+
+            // 删除标签按钮按下时
+            $('#del-annot-btn').on('click', function () {
+                // 获取当前active的
+                //console.log('DEL')
+                // 找到高亮的项目
+                var $annoList = $('#annot-list .list-group-item');
+                var $activeAnnot = $annoList.filter('.active');
+                var $activeVideo = $videoList.filter('.active');
+
+                // 发送删除请求
+                $.ajax({
+                    type: 'POST',
+                    url: '/update_annots/' + $activeVideo.text(),
+                    data: {
+                        class_name: $activeAnnot.text().split(' ')[0],
+                        timestamp: $activeAnnot.text().split(' ')[1],
+                        action: 'delete',
+                    },
+                    success: function (data) {
+                        putAnnotationToHtml(data);
+                    },
+                    error: function (data) {
+                        console.log(data);
+                        loadAnnotationVideo($activeVideo.text());
+                    }
+                })
+            })
+
+            //备份按钮
+            $('#backup-annot-btn').on('click', function () {
+                $.ajax({
+                    type: 'GET',
+                    url: '/backup',
+                    success: function (data){
+                        console.log('BACKUP in ' + data.path);
+                    },
+                    error: function () {
+                        console.log('fail backup');
+                    }
+                })
+            })
+
+
+            // ====================================================
+            // 快捷键设置
+            // ====================================================
+
+            $(document).keydown(function (e) {
+                var videoPlayer = document.getElementById('video-player');
+                if (e.which === 32) {  // 空格
+                    videoPlayer.paused ? videoPlayer.play() : videoPlayer.pause();
+                }
+                else if (e.key === 'ArrowLeft') {
+                    videoPlayer.currentTime -= 2
+                }
+                else if (e.key === 'ArrowRight') {
+                    videoPlayer.currentTime += 2
+                }
+                else if (e.which === 71) { // G
+                    console.log('Current playback time: ' + videoPlayer.currentTime);
+                }
+                else if (e.key === 'w') {
+                    label_row_select(-1);
+                }
+                else if (e.key === 's') {
+                    label_row_select(1);
+                }
+                else if (e.key >= '0' && e.key <= '9'){
+                    console.log(e.key);
+                    add_label(parseInt(e.key));
+                }
+                else if (e.key === 'ArrowUp'){  // 上一个视频
+                    switch_video(-1);
+                }
+                else if (e.key === 'ArrowDown'){  // 下一个视频
+                    switch_video(1);
+                }
+                else if (e.key === 'z'){  // 重置播放速度
+                    currPlayRate = 1.0;
+                    set_play_rate(1.0);
+                }
+                else if (e.key === 'x'){  // 减速
+                    currPlayRate -= 0.5;
+                    set_play_rate(currPlayRate);
+                }
+                else if (e.key === 'c'){  // 加速
+                    currPlayRate += 0.5;
+                    set_play_rate(currPlayRate);
+                }
+            });
+
+            // 监听键盘松开事件，暂停视频
+            $(document).keyup(function (e) {
+                var videoPlayer = document.getElementById('video-player');
+                if (e.which === 65 || e.which === 68)
+                videoPlayer.pause();
+            });
+
+            // 进度条事件绑定
+            var progressBar = $('.progress-bar');
+            $videoPlayer[0].addEventListener('timeupdate', function() {
+                // 计算并更新进度条
+                const videoPlayer = document.getElementById('video-player');
+                var percentage = (videoPlayer.currentTime / videoPlayer.duration) * 100;
+                progressBar.css('width', percentage + '%').attr('aria-valuenow', percentage);
+            });
+
+            // 模拟点击第一个视频
+            $videoList.filter('.active').click();
+            // 模拟按了上键
+            label_row_select(0);
+        });
+    </script>
+</body>
+</html>

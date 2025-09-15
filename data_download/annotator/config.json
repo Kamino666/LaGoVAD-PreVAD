@@ -1,0 +1,27 @@
+{
+  "input_dir": "ucf-crime",
+  "output_dir": "output/ucf_train",
+  "labels": [
+    "Normal", "Abuse", "Arrest", "Arson", "Assault", "Accident", "Burglary", "Explosion", "Fighting",
+    "Normal", "Robbery", "Shooting", "Stealing", "Shoplifting", "Vandalism", "<no_class>", "<no_class>", "<no_class>"
+  ],
+  "label2chinese": {
+    "<no_class>": "<no_class>",
+    "Invalid": "Invalid",
+    "Normal": "正常",
+    "Abuse": "虐待(人or动物)",
+    "Arrest": "逮捕",
+    "Arson": "纵火",
+    "Assault": "袭击",
+    "Accident": "交通事故",
+    "Burglary": "入室行窃",
+    "Explosion": "爆炸",
+    "Fighting": "打架",
+    "Robbery": "抢劫",
+    "Shooting": "枪击",
+    "Stealing": "偷窃",
+    "Shoplifting": "商店行窃",
+    "Vandalism": "破坏财产"
+  },
+  "port": 8001
+}

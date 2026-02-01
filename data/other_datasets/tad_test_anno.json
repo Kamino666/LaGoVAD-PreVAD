@@ -1,0 +1,1046 @@
+[
+    {
+        "path": "other_datasets/tad_features/01_Accident_004.npy",
+        "video_path": "other_datasets/tad_videos/01_Accident_004.mp4",
+        "class_name": "Car Accident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.2789473684210526,
+                0.6210526315789474
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/tad_features/01_Accident_011.npy",
+        "video_path": "other_datasets/tad_videos/01_Accident_011.mp4",
+        "class_name": "Car Accident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.06779661016949153,
+                0.2796610169491525
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/tad_features/01_Accident_015.npy",
+        "video_path": "other_datasets/tad_videos/01_Accident_015.mp4",
+        "class_name": "Car Accident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.3,
+                0.54
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/tad_features/01_Accident_017.npy",
+        "video_path": "other_datasets/tad_videos/01_Accident_017.mp4",
+        "class_name": "Car Accident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.20072992700729927,
+                0.5328467153284672
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/tad_features/01_Accident_019.npy",
+        "video_path": "other_datasets/tad_videos/01_Accident_019.mp4",
+        "class_name": "Car Accident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.5194805194805194,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/tad_features/01_Accident_021.npy",
+        "video_path": "other_datasets/tad_videos/01_Accident_021.mp4",
+        "class_name": "Car Accident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.5945945945945946,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/tad_features/01_Accident_025.npy",
+        "video_path": "other_datasets/tad_videos/01_Accident_025.mp4",
+        "class_name": "Car Accident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.09791666666666667,
+                0.32916666666666666
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/tad_features/01_Accident_034.npy",
+        "video_path": "other_datasets/tad_videos/01_Accident_034.mp4",
+        "class_name": "Car Accident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.7604790419161677,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/tad_features/01_Accident_035.npy",
+        "video_path": "other_datasets/tad_videos/01_Accident_035.mp4",
+        "class_name": "Car Accident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.6379310344827587,
+                0.853448275862069
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/tad_features/01_Accident_036.npy",
+        "video_path": "other_datasets/tad_videos/01_Accident_036.mp4",
+        "class_name": "Car Accident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.327455919395466,
+                0.8110831234256927
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/tad_features/01_Accident_038.npy",
+        "video_path": "other_datasets/tad_videos/01_Accident_038.mp4",
+        "class_name": "Car Accident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.11374407582938388,
+                0.6066350710900474
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/tad_features/01_Accident_041.npy",
+        "video_path": "other_datasets/tad_videos/01_Accident_041.mp4",
+        "class_name": "Car Accident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.08270676691729323,
+                0.3609022556390977
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/tad_features/01_Accident_043.npy",
+        "video_path": "other_datasets/tad_videos/01_Accident_043.mp4",
+        "class_name": "Car Accident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.04482758620689655,
+                0.28620689655172415
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/tad_features/01_Accident_053.npy",
+        "video_path": "other_datasets/tad_videos/01_Accident_053.mp4",
+        "class_name": "Car Accident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.2684931506849315,
+                0.4246575342465753
+            ],
+            [
+                0.4410958904109589,
+                0.5205479452054794
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/tad_features/01_Accident_054.npy",
+        "video_path": "other_datasets/tad_videos/01_Accident_054.mp4",
+        "class_name": "Car Accident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.4732510288065844,
+                0.6872427983539094
+            ],
+            [
+                0.7078189300411523,
+                0.8683127572016461
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/tad_features/01_Accident_063.npy",
+        "video_path": "other_datasets/tad_videos/01_Accident_063.mp4",
+        "class_name": "Car Accident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.3184713375796178,
+                0.5859872611464968
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/tad_features/01_Accident_067.npy",
+        "video_path": "other_datasets/tad_videos/01_Accident_067.mp4",
+        "class_name": "Car Accident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.27287853577371046,
+                0.34941763727121466
+            ],
+            [
+                0.49916805324459235,
+                0.7953410981697171
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/tad_features/01_Accident_069.npy",
+        "video_path": "other_datasets/tad_videos/01_Accident_069.mp4",
+        "class_name": "Car Accident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.5666666666666667,
+                0.7833333333333333
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/tad_features/01_Accident_072.npy",
+        "video_path": "other_datasets/tad_videos/01_Accident_072.mp4",
+        "class_name": "Car Accident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.7948717948717948,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/tad_features/01_Accident_086.npy",
+        "video_path": "other_datasets/tad_videos/01_Accident_086.mp4",
+        "class_name": "Car Accident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.601063829787234,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/tad_features/01_Accident_088.npy",
+        "video_path": "other_datasets/tad_videos/01_Accident_088.mp4",
+        "class_name": "Car Accident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.1244343891402715,
+                0.37104072398190047
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/tad_features/01_Accident_099.npy",
+        "video_path": "other_datasets/tad_videos/01_Accident_099.mp4",
+        "class_name": "Car Accident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.5,
+                0.9715909090909091
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/tad_features/01_Accident_104.npy",
+        "video_path": "other_datasets/tad_videos/01_Accident_104.mp4",
+        "class_name": "Car Accident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.4330708661417323,
+                0.7559055118110236
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/tad_features/02_IllegalTurn_004.npy",
+        "video_path": "other_datasets/tad_videos/02_IllegalTurn_004.mp4",
+        "class_name": "Car Accident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.5017921146953405,
+                0.7240143369175627
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/tad_features/02_IllegalTurn_006.npy",
+        "video_path": "other_datasets/tad_videos/02_IllegalTurn_006.mp4",
+        "class_name": "Car Accident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.3697916666666667,
+                0.4192708333333333
+            ],
+            [
+                0.4583333333333333,
+                0.8020833333333334
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/tad_features/02_IllegalTurn_007.npy",
+        "video_path": "other_datasets/tad_videos/02_IllegalTurn_007.mp4",
+        "class_name": "Car Accident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.38563829787234044,
+                0.449468085106383
+            ],
+            [
+                0.4654255319148936,
+                0.8563829787234043
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/tad_features/03_IllegalOccupation_002.npy",
+        "video_path": "other_datasets/tad_videos/03_IllegalOccupation_002.mp4",
+        "class_name": "Car Accident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.2786885245901639,
+                0.3046448087431694
+            ],
+            [
+                0.4166666666666667,
+                0.5573770491803278
+            ],
+            [
+                0.5710382513661202,
+                0.8579234972677595
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/tad_features/03_IllegalOccupation_006.npy",
+        "video_path": "other_datasets/tad_videos/03_IllegalOccupation_006.mp4",
+        "class_name": "Car Accident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.43359375,
+                0.8125
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/tad_features/03_IllegalOccupation_007.npy",
+        "video_path": "other_datasets/tad_videos/03_IllegalOccupation_007.mp4",
+        "class_name": "Car Accident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0970873786407767,
+                0.8786407766990292
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/tad_features/04_Retrograde_001.npy",
+        "video_path": "other_datasets/tad_videos/04_Retrograde_001.mp4",
+        "class_name": "Car Accident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.24833333333333332,
+                0.5666666666666667
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/tad_features/04_Retrograde_003.npy",
+        "video_path": "other_datasets/tad_videos/04_Retrograde_003.mp4",
+        "class_name": "Car Accident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.7553956834532374,
+                0.9028776978417267
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/tad_features/04_Retrograde_005.npy",
+        "video_path": "other_datasets/tad_videos/04_Retrograde_005.mp4",
+        "class_name": "Car Accident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.5988538681948424,
+                0.670487106017192
+            ],
+            [
+                0.8595988538681948,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/tad_features/05_else_002.npy",
+        "video_path": "other_datasets/tad_videos/05_else_002.mp4",
+        "class_name": "Car Accident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.3333333333333333,
+                0.5641025641025641
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/tad_features/05_else_006.npy",
+        "video_path": "other_datasets/tad_videos/05_else_006.mp4",
+        "class_name": "Car Accident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.20476190476190476,
+                0.6952380952380952
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/tad_features/05_else_012.npy",
+        "video_path": "other_datasets/tad_videos/05_else_012.mp4",
+        "class_name": "Car Accident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.38636363636363635,
+                0.7897727272727273
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/tad_features/05_else_013.npy",
+        "video_path": "other_datasets/tad_videos/05_else_013.mp4",
+        "class_name": "Car Accident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.35240963855421686,
+                0.6837349397590361
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/tad_features/05_else_017.npy",
+        "video_path": "other_datasets/tad_videos/05_else_017.mp4",
+        "class_name": "Car Accident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.44047619047619047,
+                0.7738095238095238
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/tad_features/05_else_023.npy",
+        "video_path": "other_datasets/tad_videos/05_else_023.mp4",
+        "class_name": "Car Accident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.7528735632183908,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/tad_features/05_else_024.npy",
+        "video_path": "other_datasets/tad_videos/05_else_024.mp4",
+        "class_name": "Car Accident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.4206896551724138,
+                0.8620689655172413
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/tad_features/05_else_038.npy",
+        "video_path": "other_datasets/tad_videos/05_else_038.mp4",
+        "class_name": "Car Accident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.33460076045627374
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/tad_features/05_else_039.npy",
+        "video_path": "other_datasets/tad_videos/05_else_039.mp4",
+        "class_name": "Car Accident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.33260869565217394,
+                0.6173913043478261
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/tad_features/05_else_042.npy",
+        "video_path": "other_datasets/tad_videos/05_else_042.mp4",
+        "class_name": "Car Accident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.20081967213114754,
+                0.6885245901639344
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/tad_features/05_else_043.npy",
+        "video_path": "other_datasets/tad_videos/05_else_043.mp4",
+        "class_name": "Car Accident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.3088235294117647,
+                0.5919117647058824
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/tad_features/05_else_045.npy",
+        "video_path": "other_datasets/tad_videos/05_else_045.mp4",
+        "class_name": "Car Accident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.1490066225165563,
+                0.5298013245033113
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/tad_features/05_else_046.npy",
+        "video_path": "other_datasets/tad_videos/05_else_046.mp4",
+        "class_name": "Car Accident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.3488372093023256,
+                0.5674418604651162
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/tad_features/05_else_047.npy",
+        "video_path": "other_datasets/tad_videos/05_else_047.mp4",
+        "class_name": "Car Accident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.3643122676579926,
+                0.5985130111524164
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/tad_features/06_PedestrianOnRoad_002.npy",
+        "video_path": "other_datasets/tad_videos/06_PedestrianOnRoad_002.mp4",
+        "class_name": "Car Accident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.6004319654427646,
+                0.9092872570194385
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/tad_features/06_PedestrianOnRoad_005.npy",
+        "video_path": "other_datasets/tad_videos/06_PedestrianOnRoad_005.mp4",
+        "class_name": "Car Accident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.05802047781569966,
+                0.5255972696245734
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/tad_features/06_PedestrianOnRoad_007.npy",
+        "video_path": "other_datasets/tad_videos/06_PedestrianOnRoad_007.mp4",
+        "class_name": "Car Accident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.49301143583227447,
+                0.7217280813214739
+            ],
+            [
+                0.7623888182973316,
+                0.8678526048284625
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/tad_features/06_PedestrianOnRoad_013.npy",
+        "video_path": "other_datasets/tad_videos/06_PedestrianOnRoad_013.mp4",
+        "class_name": "Car Accident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.7,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/tad_features/06_PedestrianOnRoad_014.npy",
+        "video_path": "other_datasets/tad_videos/06_PedestrianOnRoad_014.mp4",
+        "class_name": "Car Accident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.1927512355848435,
+                0.4827018121911038
+            ],
+            [
+                0.871499176276771,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/tad_features/06_PedestrianOnRoad_017.npy",
+        "video_path": "other_datasets/tad_videos/06_PedestrianOnRoad_017.mp4",
+        "class_name": "Car Accident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.40942028985507245,
+                0.9130434782608695
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/tad_features/06_PedestrianOnRoad_018.npy",
+        "video_path": "other_datasets/tad_videos/06_PedestrianOnRoad_018.mp4",
+        "class_name": "Car Accident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.33915211970074816,
+                0.38902743142144636
+            ],
+            [
+                0.571072319201995,
+                0.7930174563591023
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/tad_features/06_PedestrianOnRoad_020.npy",
+        "video_path": "other_datasets/tad_videos/06_PedestrianOnRoad_020.mp4",
+        "class_name": "Car Accident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.3851851851851852,
+                0.8320987654320988
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/tad_features/06_PedestrianOnRoad_022.npy",
+        "video_path": "other_datasets/tad_videos/06_PedestrianOnRoad_022.mp4",
+        "class_name": "Car Accident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.6048780487804878,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/tad_features/06_PedestrianOnRoad_027.npy",
+        "video_path": "other_datasets/tad_videos/06_PedestrianOnRoad_027.mp4",
+        "class_name": "Car Accident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.21485411140583555
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/tad_features/07_RoadSpills_005.npy",
+        "video_path": "other_datasets/tad_videos/07_RoadSpills_005.mp4",
+        "class_name": "Car Accident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.7640750670241286,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/tad_features/07_RoadSpills_008.npy",
+        "video_path": "other_datasets/tad_videos/07_RoadSpills_008.mp4",
+        "class_name": "Car Accident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.44529262086513993,
+                0.7022900763358778
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/tad_features/07_RoadSpills_018.npy",
+        "video_path": "other_datasets/tad_videos/07_RoadSpills_018.mp4",
+        "class_name": "Car Accident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.5777777777777777,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/tad_features/07_RoadSpills_020.npy",
+        "video_path": "other_datasets/tad_videos/07_RoadSpills_020.mp4",
+        "class_name": "Car Accident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.2540192926045016,
+                0.4855305466237942
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/tad_features/Normal_012.npy",
+        "video_path": "other_datasets/tad_videos/Normal_012.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/tad_features/Normal_020.npy",
+        "video_path": "other_datasets/tad_videos/Normal_020.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/tad_features/Normal_031.npy",
+        "video_path": "other_datasets/tad_videos/Normal_031.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/tad_features/Normal_035.npy",
+        "video_path": "other_datasets/tad_videos/Normal_035.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/tad_features/Normal_046.npy",
+        "video_path": "other_datasets/tad_videos/Normal_046.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/tad_features/Normal_061.npy",
+        "video_path": "other_datasets/tad_videos/Normal_061.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/tad_features/Normal_062.npy",
+        "video_path": "other_datasets/tad_videos/Normal_062.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/tad_features/Normal_074.npy",
+        "video_path": "other_datasets/tad_videos/Normal_074.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/tad_features/Normal_076.npy",
+        "video_path": "other_datasets/tad_videos/Normal_076.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/tad_features/Normal_084.npy",
+        "video_path": "other_datasets/tad_videos/Normal_084.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/tad_features/Normal_092.npy",
+        "video_path": "other_datasets/tad_videos/Normal_092.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/tad_features/Normal_094.npy",
+        "video_path": "other_datasets/tad_videos/Normal_094.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/tad_features/Normal_105.npy",
+        "video_path": "other_datasets/tad_videos/Normal_105.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/tad_features/Normal_111.npy",
+        "video_path": "other_datasets/tad_videos/Normal_111.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/tad_features/Normal_112.npy",
+        "video_path": "other_datasets/tad_videos/Normal_112.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/tad_features/Normal_127.npy",
+        "video_path": "other_datasets/tad_videos/Normal_127.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/tad_features/Normal_128.npy",
+        "video_path": "other_datasets/tad_videos/Normal_128.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/tad_features/Normal_129.npy",
+        "video_path": "other_datasets/tad_videos/Normal_129.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/tad_features/Normal_141.npy",
+        "video_path": "other_datasets/tad_videos/Normal_141.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/tad_features/Normal_149.npy",
+        "video_path": "other_datasets/tad_videos/Normal_149.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/tad_features/Normal_156.npy",
+        "video_path": "other_datasets/tad_videos/Normal_156.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/tad_features/Normal_158.npy",
+        "video_path": "other_datasets/tad_videos/Normal_158.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/tad_features/Normal_166.npy",
+        "video_path": "other_datasets/tad_videos/Normal_166.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/tad_features/Normal_167.npy",
+        "video_path": "other_datasets/tad_videos/Normal_167.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/tad_features/Normal_172.npy",
+        "video_path": "other_datasets/tad_videos/Normal_172.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/tad_features/Normal_178.npy",
+        "video_path": "other_datasets/tad_videos/Normal_178.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/tad_features/Normal_186.npy",
+        "video_path": "other_datasets/tad_videos/Normal_186.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/tad_features/Normal_187.npy",
+        "video_path": "other_datasets/tad_videos/Normal_187.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/tad_features/Normal_195.npy",
+        "video_path": "other_datasets/tad_videos/Normal_195.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/tad_features/Normal_212.npy",
+        "video_path": "other_datasets/tad_videos/Normal_212.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/tad_features/Normal_214.npy",
+        "video_path": "other_datasets/tad_videos/Normal_214.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/tad_features/Normal_216.npy",
+        "video_path": "other_datasets/tad_videos/Normal_216.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/tad_features/Normal_217.npy",
+        "video_path": "other_datasets/tad_videos/Normal_217.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/tad_features/Normal_218.npy",
+        "video_path": "other_datasets/tad_videos/Normal_218.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/tad_features/Normal_219.npy",
+        "video_path": "other_datasets/tad_videos/Normal_219.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/tad_features/Normal_222.npy",
+        "video_path": "other_datasets/tad_videos/Normal_222.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/tad_features/Normal_227.npy",
+        "video_path": "other_datasets/tad_videos/Normal_227.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/tad_features/Normal_232.npy",
+        "video_path": "other_datasets/tad_videos/Normal_232.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/tad_features/Normal_252.npy",
+        "video_path": "other_datasets/tad_videos/Normal_252.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/tad_features/Normal_259.npy",
+        "video_path": "other_datasets/tad_videos/Normal_259.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    }
+]

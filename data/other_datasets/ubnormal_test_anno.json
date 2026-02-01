@@ -1,0 +1,2437 @@
+[
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_5_scenario_7.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_5_scenario_7.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.9978308026030369
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_7_scenario_4_fog.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_7_scenario_4_fog.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.2682926829268293,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_5_scenario_2_smoke.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_5_scenario_2_smoke.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/normal_scene_7_scenario_4_fog.npy",
+        "video_path": "other_datasets/ubnormal_videos/normal_scene_7_scenario_4_fog.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_7_scenario_8.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_7_scenario_8.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.06208425720620843,
+                0.25942350332594233
+            ],
+            [
+                0.6031042128603105,
+                0.7738359201773836
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_14_scenario_5.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_14_scenario_5.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.10421286031042129,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/normal_scene_20_scenario_2.npy",
+        "video_path": "other_datasets/ubnormal_videos/normal_scene_20_scenario_2.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_25_scenario_4.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_25_scenario_4.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/normal_scene_25_scenario_7.npy",
+        "video_path": "other_datasets/ubnormal_videos/normal_scene_25_scenario_7.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_4_scenario_1_fire.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_4_scenario_1_fire.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/normal_scene_17_scenario_2.npy",
+        "video_path": "other_datasets/ubnormal_videos/normal_scene_17_scenario_2.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_7_scenario_6.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_7_scenario_6.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.45454545454545453
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/normal_scene_21_scenario_2.npy",
+        "video_path": "other_datasets/ubnormal_videos/normal_scene_21_scenario_2.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_28_scenario_2.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_28_scenario_2.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.2106430155210643,
+                0.4501108647450111
+            ],
+            [
+                0.458980044345898,
+                0.6940133037694013
+            ],
+            [
+                0.8980044345898004,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_5_scenario_8.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_5_scenario_8.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.6029106029106029,
+                0.997920997920998
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/normal_scene_21_scenario_5.npy",
+        "video_path": "other_datasets/ubnormal_videos/normal_scene_21_scenario_5.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_13_scenario_8.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_13_scenario_8.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.08869179600886919,
+                0.3902439024390244
+            ],
+            [
+                0.5210643015521065,
+                0.7871396895787139
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_10_scenario_5.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_10_scenario_5.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.6031042128603105
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_14_scenario_7.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_14_scenario_7.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_10_scenario_3.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_10_scenario_3.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.18329938900203666,
+                0.5519348268839104
+            ],
+            [
+                0.6517311608961304,
+                0.9979633401221996
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_16_scenario_4.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_16_scenario_4.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.0598669623059867
+            ],
+            [
+                0.06651884700665188,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_28_scenario_1.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_28_scenario_1.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.13303769401330376
+            ],
+            [
+                0.7893569844789357,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_22_scenario_4.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_22_scenario_4.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.6031042128603105
+            ],
+            [
+                0.6297117516629712,
+                0.6319290465631929
+            ],
+            [
+                0.6518847006651884,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_28_scenario_3.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_28_scenario_3.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.2771618625277162,
+                0.44124168514412415
+            ],
+            [
+                0.5986696230598669,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_1_scenario_1.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_1_scenario_1.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.31297709923664124,
+                0.8320610687022901
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_17_scenario_1_smoke.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_17_scenario_1_smoke.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_27_scenario_4.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_27_scenario_4.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.36807095343680707
+            ],
+            [
+                0.41019955654101997,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_13_scenario_5.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_13_scenario_5.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.4057649667405765
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_24_scenario_1.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_24_scenario_1.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_8_scenario_2.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_8_scenario_2.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.06724511930585683,
+                0.30585683297180044
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_1_scenario_4.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_1_scenario_4.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.12638580931263857,
+                0.42572062084257206
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_17_scenario_5.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_17_scenario_5.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_16_scenario_2.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_16_scenario_2.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.12416851441241686,
+                0.24833702882483372
+            ],
+            [
+                0.5565410199556541,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_18_scenario_5.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_18_scenario_5.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.4523281596452328
+            ],
+            [
+                0.6407982261640798,
+                0.8824833702882483
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/normal_scene_18_scenario_4.npy",
+        "video_path": "other_datasets/ubnormal_videos/normal_scene_18_scenario_4.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ubnormal_features/normal_scene_20_scenario_9.npy",
+        "video_path": "other_datasets/ubnormal_videos/normal_scene_20_scenario_9.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ubnormal_features/normal_scene_8_scenario_2_fog.npy",
+        "video_path": "other_datasets/ubnormal_videos/normal_scene_8_scenario_2_fog.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_17_scenario_4.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_17_scenario_4.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.15964523281596452,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_12_scenario_4.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_12_scenario_4.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.4523281596452328
+            ],
+            [
+                0.5254988913525499,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_6_scenario_3.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_6_scenario_3.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.37250554323725055,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_9_scenario_3.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_9_scenario_3.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_7_scenario_2.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_7_scenario_2.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.14412416851441243,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_11_scenario_1_fog.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_11_scenario_1_fog.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.1130820399113082,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_28_scenario_4.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_28_scenario_4.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.38802660753880264,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_29_scenario_4.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_29_scenario_4.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.42572062084257206,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_15_scenario_1.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_15_scenario_1.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.026607538802660754,
+                0.3237250554323725
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/normal_scene_22_scenario_5.npy",
+        "video_path": "other_datasets/ubnormal_videos/normal_scene_22_scenario_5.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ubnormal_features/normal_scene_21_scenario_3.npy",
+        "video_path": "other_datasets/ubnormal_videos/normal_scene_21_scenario_3.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ubnormal_features/normal_scene_9_scenario_4_fog.npy",
+        "video_path": "other_datasets/ubnormal_videos/normal_scene_9_scenario_4_fog.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_12_scenario_1.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_12_scenario_1.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.5077605321507761
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_13_scenario_1.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_13_scenario_1.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.08869179600886919,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_12_scenario_2.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_12_scenario_2.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.17738359201773837,
+                0.5853658536585366
+            ],
+            [
+                0.6873614190687362,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_24_scenario_2.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_24_scenario_2.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.3991130820399113,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_18_scenario_6.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_18_scenario_6.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.5986696230598669
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_25_scenario_1.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_25_scenario_1.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.07399103139013453,
+                0.4618834080717489
+            ],
+            [
+                0.594170403587444,
+                0.9977578475336323
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_11_scenario_1.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_11_scenario_1.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.15521064301552107
+            ],
+            [
+                0.24168514412416853,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_15_scenario_8.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_15_scenario_8.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.8203991130820399
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_9_scenario_2_fog.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_9_scenario_2_fog.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.8647450110864745
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_25_scenario_3.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_25_scenario_3.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_27_scenario_3.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_27_scenario_3.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.6407982261640798,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_14_scenario_8.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_14_scenario_8.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.9667405764966741
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_27_scenario_2.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_27_scenario_2.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_12_scenario_1_smoke.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_12_scenario_1_smoke.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_2_scenario_5.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_2_scenario_5.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.9978308026030369
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_10_scenario_6.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_10_scenario_6.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.998003992015968
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/normal_scene_10_scenario_3.npy",
+        "video_path": "other_datasets/ubnormal_videos/normal_scene_10_scenario_3.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_4_scenario_6.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_4_scenario_6.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/normal_scene_1_scenario1_10.npy",
+        "video_path": "other_datasets/ubnormal_videos/normal_scene_1_scenario1_10.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_11_scenario_9.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_11_scenario_9.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.20620842572062084,
+                0.6696230598669624
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/normal_scene_4_scenario_1.npy",
+        "video_path": "other_datasets/ubnormal_videos/normal_scene_4_scenario_1.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_17_scenario_9.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_17_scenario_9.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.09312638580931264
+            ],
+            [
+                0.4656319290465632,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_26_scenario_1.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_26_scenario_1.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.6031042128603105
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_29_scenario_3.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_29_scenario_3.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.5365853658536586
+            ],
+            [
+                0.5964523281596452,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/normal_scene_14_scenario_4.npy",
+        "video_path": "other_datasets/ubnormal_videos/normal_scene_14_scenario_4.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ubnormal_features/normal_scene_9_scenario_8.npy",
+        "video_path": "other_datasets/ubnormal_videos/normal_scene_9_scenario_8.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ubnormal_features/normal_scene_7_scenario_3.npy",
+        "video_path": "other_datasets/ubnormal_videos/normal_scene_7_scenario_3.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_12_scenario_3.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_12_scenario_3.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.082039911308204,
+                0.44567627494456763
+            ],
+            [
+                0.738359201773836,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_7_scenario_1_fog.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_7_scenario_1_fog.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.3924611973392461,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_13_scenario_4.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_13_scenario_4.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/normal_scene_26_scenario_8.npy",
+        "video_path": "other_datasets/ubnormal_videos/normal_scene_26_scenario_8.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_7_scenario_10.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_7_scenario_10.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_7_scenario_3.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_7_scenario_3.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_19_scenario_8.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_19_scenario_8.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.8647450110864745
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_15_scenario_9.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_15_scenario_9.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/normal_scene_14_scenario_2.npy",
+        "video_path": "other_datasets/ubnormal_videos/normal_scene_14_scenario_2.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_21_scenario_3.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_21_scenario_3.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/normal_scene_23_scenario_5.npy",
+        "video_path": "other_datasets/ubnormal_videos/normal_scene_23_scenario_5.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ubnormal_features/normal_scene_24_scenario_6.npy",
+        "video_path": "other_datasets/ubnormal_videos/normal_scene_24_scenario_6.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_21_scenario_2.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_21_scenario_2.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.9977578475336323
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/normal_scene_4_scenario_8.npy",
+        "video_path": "other_datasets/ubnormal_videos/normal_scene_4_scenario_8.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_13_scenario_3_fog.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_13_scenario_3_fog.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_17_scenario_6.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_17_scenario_6.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_15_scenario_4.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_15_scenario_4.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.34930139720558884,
+                0.4151696606786427
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_11_scenario_2.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_11_scenario_2.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0598669623059867,
+                0.23059866962305986
+            ],
+            [
+                0.24611973392461198,
+                0.38137472283813745
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_29_scenario_2_smoke.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_29_scenario_2_smoke.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.37250554323725055,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_8_scenario_3.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_8_scenario_3.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.6407185628742516
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_7_scenario_7.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_7_scenario_7.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.06873614190687362,
+                0.4523281596452328
+            ],
+            [
+                0.6452328159645233,
+                0.8736141906873615
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_26_scenario_4.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_26_scenario_4.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.44789356984478934
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_20_scenario_4.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_20_scenario_4.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.04434589800443459,
+                0.10643015521064302
+            ],
+            [
+                0.31929046563192903,
+                0.7937915742793792
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/normal_scene_29_scenario_1.npy",
+        "video_path": "other_datasets/ubnormal_videos/normal_scene_29_scenario_1.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_10_scenario_8.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_10_scenario_8.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.4190687361419069,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/normal_scene_11_scenario_2_fog.npy",
+        "video_path": "other_datasets/ubnormal_videos/normal_scene_11_scenario_2_fog.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_1_scenario_2.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_1_scenario_2.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.2980132450331126,
+                0.7947019867549668
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_22_scenario_2.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_22_scenario_2.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.2017738359201774,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_27_scenario_2_fire.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_27_scenario_2_fire.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_21_scenario_1.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_21_scenario_1.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.07760532150776053,
+                0.30376940133037694
+            ],
+            [
+                0.35476718403547675,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_29_scenario_2.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_29_scenario_2.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.20620842572062084,
+                0.5875831485587583
+            ],
+            [
+                0.7161862527716186,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_2_scenario_6.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_2_scenario_6.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.3707865168539326,
+                0.9977528089887641
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/normal_scene_5_scenario_8.npy",
+        "video_path": "other_datasets/ubnormal_videos/normal_scene_5_scenario_8.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_1_scenario_6.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_1_scenario_6.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.2052980132450331,
+                0.5960264900662252
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/normal_scene_23_scenario_7.npy",
+        "video_path": "other_datasets/ubnormal_videos/normal_scene_23_scenario_7.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_23_scenario_4.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_23_scenario_4.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.5631929046563193,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_11_scenario_8.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_11_scenario_8.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.2771618625277162,
+                0.7516629711751663
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/normal_scene_18_scenario_1.npy",
+        "video_path": "other_datasets/ubnormal_videos/normal_scene_18_scenario_1.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_10_scenario_7.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_10_scenario_7.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.1996007984031936,
+                0.4111776447105788
+            ],
+            [
+                0.5988023952095808,
+                0.7944111776447106
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/normal_scene_3_scenario_1.npy",
+        "video_path": "other_datasets/ubnormal_videos/normal_scene_3_scenario_1.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_22_scenario_3.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_22_scenario_3.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_4_scenario_2_fire.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_4_scenario_2_fire.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_9_scenario_4_fog.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_9_scenario_4_fog.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.20842572062084258,
+                0.4634146341463415
+            ],
+            [
+                0.6518847006651884,
+                0.8869179600886918
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_17_scenario_2_fire.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_17_scenario_2_fire.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_7_scenario_4.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_7_scenario_4.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.19955654101995565,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_17_scenario_7.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_17_scenario_7.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_5_scenario_4.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_5_scenario_4.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.9978308026030369
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_11_scenario_2_fog.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_11_scenario_2_fog.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.017738359201773836,
+                0.10199556541019955
+            ],
+            [
+                0.25277161862527714,
+                0.376940133037694
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_9_scenario_7.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_9_scenario_7.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_20_scenario_2.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_20_scenario_2.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.6984478935698448
+            ],
+            [
+                0.8957871396895787,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_23_scenario_3.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_23_scenario_3.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.10643015521064302,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_8_scenario_1_fog.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_8_scenario_1_fog.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.3789237668161435,
+                0.9977578475336323
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_13_scenario_4_fog.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_13_scenario_4_fog.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.5099778270509978
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_3_scenario_2.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_3_scenario_2.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.13425925925925927,
+                0.6712962962962963
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/normal_scene_10_scenario_8.npy",
+        "video_path": "other_datasets/ubnormal_videos/normal_scene_10_scenario_8.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ubnormal_features/normal_scene_23_scenario_4.npy",
+        "video_path": "other_datasets/ubnormal_videos/normal_scene_23_scenario_4.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ubnormal_features/normal_scene_3_scenario_7.npy",
+        "video_path": "other_datasets/ubnormal_videos/normal_scene_3_scenario_7.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ubnormal_features/normal_scene_26_scenario_4.npy",
+        "video_path": "other_datasets/ubnormal_videos/normal_scene_26_scenario_4.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_10_scenario_4.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_10_scenario_4.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.5343680709534369
+            ],
+            [
+                0.5365853658536586,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_24_scenario_3.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_24_scenario_3.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.09534368070953436,
+                0.4212860310421286
+            ],
+            [
+                0.8093126385809313,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_13_scenario_9.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_13_scenario_9.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_9_scenario_8.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_9_scenario_8.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.21286031042128603,
+                0.44567627494456763
+            ],
+            [
+                0.647450110864745,
+                0.8470066518847007
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_7_scenario_2_fog.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_7_scenario_2_fog.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.12416851441241686,
+                0.7095343680709535
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_15_scenario_5.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_15_scenario_5.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.43015521064301554,
+                0.6696230598669624
+            ],
+            [
+                0.8603104212860311,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/normal_scene_10_scenario_9.npy",
+        "video_path": "other_datasets/ubnormal_videos/normal_scene_10_scenario_9.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_8_scenario_2_fog.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_8_scenario_2_fog.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.021691973969631236,
+                0.9978308026030369
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/normal_scene_17_scenario_3_1.npy",
+        "video_path": "other_datasets/ubnormal_videos/normal_scene_17_scenario_3_1.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_29_scenario_1_smoke.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_29_scenario_1_smoke.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/normal_scene_17_scenario_4.npy",
+        "video_path": "other_datasets/ubnormal_videos/normal_scene_17_scenario_4.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_19_scenario_5.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_19_scenario_5.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.05543237250554324,
+                0.22172949002217296
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_7_scenario_1_fire.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_7_scenario_1_fire.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_16_scenario_3.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_16_scenario_3.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.06873614190687362,
+                0.4634146341463415
+            ],
+            [
+                0.565410199556541,
+                0.9534368070953437
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/normal_scene_28_scenario_2.npy",
+        "video_path": "other_datasets/ubnormal_videos/normal_scene_28_scenario_2.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_23_scenario_2.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_23_scenario_2.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.21729490022172948,
+                0.44124168514412415
+            ],
+            [
+                0.6518847006651884,
+                0.8292682926829268
+            ],
+            [
+                0.8492239467849224,
+                0.8691796008869179
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_14_scenario_6.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_14_scenario_6.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_1_scenario_5.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_1_scenario_5.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.1286031042128603,
+                0.2771618625277162
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_26_scenario_3.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_26_scenario_3.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.15964523281596452,
+                0.5565410199556541
+            ],
+            [
+                0.6407982261640798,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/normal_scene_4_scenario_5.npy",
+        "video_path": "other_datasets/ubnormal_videos/normal_scene_4_scenario_5.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_24_scenario_4.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_24_scenario_4.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.8093126385809313,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_2_scenario_1.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_2_scenario_1.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.19900497512437812,
+                0.9601990049751243
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/normal_scene_20_scenario_4.npy",
+        "video_path": "other_datasets/ubnormal_videos/normal_scene_20_scenario_4.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_1_scenario_8.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_1_scenario_8.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.14427860696517414,
+                0.4129353233830846
+            ],
+            [
+                0.417910447761194,
+                0.6865671641791045
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_7_scenario_5.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_7_scenario_5.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/normal_scene_15_scenario_6.npy",
+        "video_path": "other_datasets/ubnormal_videos/normal_scene_15_scenario_6.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ubnormal_features/normal_scene_12_scenario_2.npy",
+        "video_path": "other_datasets/ubnormal_videos/normal_scene_12_scenario_2.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_27_scenario_1_smoke.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_27_scenario_1_smoke.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_29_scenario_1.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_29_scenario_1.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.6164079822616408,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/normal_scene_29_scenario_6.npy",
+        "video_path": "other_datasets/ubnormal_videos/normal_scene_29_scenario_6.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_5_scenario_5.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_5_scenario_5.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.3543788187372709,
+                0.9979633401221996
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_8_scenario_1.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_8_scenario_1.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.07847533632286996,
+                0.226457399103139
+            ],
+            [
+                0.4260089686098655,
+                0.9977578475336323
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_7_scenario_9.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_7_scenario_9.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.3946784922394678,
+                0.8381374722838137
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_6_scenario_8.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_6_scenario_8.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.37472283813747226,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_5_scenario_1_smoke.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_5_scenario_1_smoke.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/normal_scene_27_scenario_4.npy",
+        "video_path": "other_datasets/ubnormal_videos/normal_scene_27_scenario_4.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ubnormal_features/normal_scene_10_scenario_2.npy",
+        "video_path": "other_datasets/ubnormal_videos/normal_scene_10_scenario_2.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_3_scenario_1.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_3_scenario_1.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.12781954887218044,
+                0.5789473684210527
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_3_scenario_6.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_3_scenario_6.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.36807095343680707,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_7_scenario_1.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_7_scenario_1.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.1146067415730337,
+                0.9662921348314607
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/normal_scene_3_scenario_5.npy",
+        "video_path": "other_datasets/ubnormal_videos/normal_scene_3_scenario_5.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ubnormal_features/normal_scene_8_scenario_7.npy",
+        "video_path": "other_datasets/ubnormal_videos/normal_scene_8_scenario_7.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_8_scenario_5.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_8_scenario_5.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.9978308026030369
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/normal_scene_7_scenario_3_fog.npy",
+        "video_path": "other_datasets/ubnormal_videos/normal_scene_7_scenario_3_fog.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_20_scenario_3.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_20_scenario_3.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.5121951219512195
+            ],
+            [
+                0.6208425720620843,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_4_scenario_1.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_4_scenario_1.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.20276497695852536,
+                0.9953917050691244
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_1_scenario_9.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_1_scenario_9.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.38802660753880264,
+                0.5055432372505543
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_15_scenario_6.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_15_scenario_6.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.3835920177383592,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_12_scenario_9.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_12_scenario_9.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.3644251626898048,
+                0.9978308026030369
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/normal_scene_25_scenario_4.npy",
+        "video_path": "other_datasets/ubnormal_videos/normal_scene_25_scenario_4.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_8_scenario_4.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_8_scenario_4.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.2771618625277162,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_13_scenario_1_fog.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_13_scenario_1_fog.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.15077605321507762,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_7_scenario_2_smoke.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_7_scenario_2_smoke.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_19_scenario_6.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_19_scenario_6.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.3325942350332594,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_20_scenario_1.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_20_scenario_1.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.1729490022172949
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_12_scenario_8.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_12_scenario_8.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.30598669623059865,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_15_scenario_3.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_15_scenario_3.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.013303769401330377,
+                0.516629711751663
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/normal_scene_9_scenario_1.npy",
+        "video_path": "other_datasets/ubnormal_videos/normal_scene_9_scenario_1.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_7_scenario_3_fog.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_7_scenario_3_fog.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_1_scenario_7.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_1_scenario_7.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.19205298013245034,
+                0.5033112582781457
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_18_scenario_7.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_18_scenario_7.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_15_scenario_2.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_15_scenario_2.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.5277161862527716,
+                0.7871396895787139
+            ],
+            [
+                0.9201773835920177,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_26_scenario_2.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_26_scenario_2.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_13_scenario_2_fog.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_13_scenario_2_fog.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/normal_scene_13_scenario_1_fog.npy",
+        "video_path": "other_datasets/ubnormal_videos/normal_scene_13_scenario_1_fog.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ubnormal_features/normal_scene_9_scenario_6.npy",
+        "video_path": "other_datasets/ubnormal_videos/normal_scene_9_scenario_6.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_23_scenario_1.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_23_scenario_1.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.5898004434589801,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_6_scenario_2.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_6_scenario_2.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.13533834586466165,
+                0.9962406015037594
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_17_scenario_2.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_17_scenario_2.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.06208425720620843,
+                0.2328159645232816
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/normal_scene_11_scenario_4_fog.npy",
+        "video_path": "other_datasets/ubnormal_videos/normal_scene_11_scenario_4_fog.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_13_scenario_3.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_13_scenario_3.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_4_scenario_4.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_4_scenario_4.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.21507760532150777,
+                0.5853658536585366
+            ],
+            [
+                0.7184035476718403,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_19_scenario_7.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_19_scenario_7.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.5432372505543237
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_10_scenario_1.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_10_scenario_1.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.9977827050997783
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_22_scenario_1.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_22_scenario_1.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.6053215077605322
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ubnormal_features/normal_scene_24_scenario_1.npy",
+        "video_path": "other_datasets/ubnormal_videos/normal_scene_24_scenario_1.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ubnormal_features/abnormal_scene_2_scenario_4.npy",
+        "video_path": "other_datasets/ubnormal_videos/abnormal_scene_2_scenario_4.mp4",
+        "class_name": "Abnormal",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.9977827050997783
+            ]
+        ]
+    }
+]

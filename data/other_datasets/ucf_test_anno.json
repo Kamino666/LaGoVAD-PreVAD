@@ -1,0 +1,2796 @@
+[
+    {
+        "path": "other_datasets/ucf_features/Abuse028_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Abuse028_x264.mp4",
+        "class_name": "Abuse",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.11685552407932011,
+                0.16997167138810199
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Abuse030_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Abuse030_x264.mp4",
+        "class_name": "Abuse",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.8257772020725389,
+                0.8808290155440415
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Arrest001_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Arrest001_x264.mp4",
+        "class_name": "Arrest",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.4991575400168492,
+                0.6255265374894693
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Arrest007_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Arrest007_x264.mp4",
+        "class_name": "Arrest",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.4866412213740458,
+                0.6870229007633588
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Arrest024_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Arrest024_x264.mp4",
+        "class_name": "Arrest",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.27693579498484433,
+                0.8556076054009369
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Arrest030_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Arrest030_x264.mp4",
+        "class_name": "Arrest",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.6404767414950243,
+                0.833140476741495
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Arrest039_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Arrest039_x264.mp4",
+        "class_name": "Arrest",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.45563624881591414,
+                0.6526681401957689
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Arson007_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Arson007_x264.mp4",
+        "class_name": "Arson",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.3598848368522073,
+                0.9117082533589251
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Arson009_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Arson009_x264.mp4",
+        "class_name": "Arson",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.2960969044414536,
+                0.423956931359354
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Arson010_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Arson010_x264.mp4",
+        "class_name": "Arson",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.2801519468186135,
+                0.38936372269705605
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Arson011_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Arson011_x264.mp4",
+        "class_name": "Arson",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.11848341232227488,
+                0.33175355450236965
+            ],
+            [
+                0.5371248025276462,
+                1.0007898894154819
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Arson016_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Arson016_x264.mp4",
+        "class_name": "Arson",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.5571030640668524,
+                1.0005571030640668
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Arson018_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Arson018_x264.mp4",
+        "class_name": "Arson",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.32066508313539194,
+                0.7125890736342043
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Arson022_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Arson022_x264.mp4",
+        "class_name": "Arson",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.4050925925925926,
+                0.46296296296296297
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Arson035_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Arson035_x264.mp4",
+        "class_name": "Arson",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.4175365344467641,
+                0.6263048016701461
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Arson041_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Arson041_x264.mp4",
+        "class_name": "Arson",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.567394778902504,
+                0.9629728289824188
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Assault006_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Assault006_x264.mp4",
+        "class_name": "Assault",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.14636857707509882,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Assault010_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Assault010_x264.mp4",
+        "class_name": "Assault",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.7003770785683378,
+                0.7220127341287013
+            ],
+            [
+                0.7578661062001607,
+                0.7992829325585709
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Assault011_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Assault011_x264.mp4",
+        "class_name": "Assault",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.1638986013986014,
+                0.4195804195804196
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Burglary005_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Burglary005_x264.mp4",
+        "class_name": "Burglary",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.6093931944624142,
+                0.6520895329279337
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Burglary017_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Burglary017_x264.mp4",
+        "class_name": "Burglary",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.07098911500236631,
+                0.28395646000946523
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Burglary018_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Burglary018_x264.mp4",
+        "class_name": "Burglary",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.64,
+                0.9333333333333333
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Burglary021_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Burglary021_x264.mp4",
+        "class_name": "Burglary",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.03903708523096942,
+                0.13012361743656473
+            ],
+            [
+                0.5465191932335719,
+                0.8718282368249838
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Burglary024_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Burglary024_x264.mp4",
+        "class_name": "Burglary",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.016643550624133148,
+                0.34119278779472956
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Burglary032_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Burglary032_x264.mp4",
+        "class_name": "Burglary",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.08167141500474834,
+                0.2336182336182336
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Burglary033_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Burglary033_x264.mp4",
+        "class_name": "Burglary",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.04765687053216839,
+                0.2621127879269261
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Burglary035_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Burglary035_x264.mp4",
+        "class_name": "Burglary",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0002469135802469136,
+                0.42962962962962964
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Burglary037_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Burglary037_x264.mp4",
+        "class_name": "Burglary",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.125,
+                0.203125
+            ],
+            [
+                0.28125,
+                0.9375
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Burglary061_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Burglary061_x264.mp4",
+        "class_name": "Burglary",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.4671857619577308,
+                0.6340378197997776
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Burglary076_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Burglary076_x264.mp4",
+        "class_name": "Burglary",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.12303644664551575,
+                0.33274007583378473
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Burglary079_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Burglary079_x264.mp4",
+        "class_name": "Burglary",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.5217801117619336,
+                0.7210664512219753
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Burglary092_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Burglary092_x264.mp4",
+        "class_name": "Burglary",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.384,
+                0.672
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Explosion002_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Explosion002_x264.mp4",
+        "class_name": "Explosion",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.373785198106155,
+                0.523299277348617
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Explosion004_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Explosion004_x264.mp4",
+        "class_name": "Explosion",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.03943217665615142,
+                0.11829652996845426
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Explosion007_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Explosion007_x264.mp4",
+        "class_name": "Explosion",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.09761188532138253,
+                0.13997176008349194
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Explosion008_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Explosion008_x264.mp4",
+        "class_name": "Explosion",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.5749427917620137,
+                0.7122425629290617
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Explosion010_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Explosion010_x264.mp4",
+        "class_name": "Explosion",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.11409127301841474,
+                0.4323458767013611
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Explosion011_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Explosion011_x264.mp4",
+        "class_name": "Explosion",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.5060471037555697,
+                0.6015276893698281
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Explosion013_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Explosion013_x264.mp4",
+        "class_name": "Explosion",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.7597226409406089,
+                0.895387398251432
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Explosion016_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Explosion016_x264.mp4",
+        "class_name": "Explosion",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.18691588785046728,
+                0.4672897196261682
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Explosion017_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Explosion017_x264.mp4",
+        "class_name": "Explosion",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.6025562994522216,
+                0.8764455264759586
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Explosion020_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Explosion020_x264.mp4",
+        "class_name": "Explosion",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.046475600309837335,
+                0.209140201394268
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Explosion021_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Explosion021_x264.mp4",
+        "class_name": "Explosion",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.17263427109974425,
+                0.3452685421994885
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Explosion022_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Explosion022_x264.mp4",
+        "class_name": "Explosion",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.6204785754034502,
+                0.6733444629938787
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Explosion025_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Explosion025_x264.mp4",
+        "class_name": "Explosion",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.5148514851485149,
+                0.8316831683168316
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Explosion027_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Explosion027_x264.mp4",
+        "class_name": "Explosion",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.13530927835051546,
+                0.23195876288659795
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Explosion028_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Explosion028_x264.mp4",
+        "class_name": "Explosion",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.16422287390029325,
+                0.41055718475073316
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Explosion029_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Explosion029_x264.mp4",
+        "class_name": "Explosion",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.7593360995850622,
+                0.8381742738589212
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Explosion033_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Explosion033_x264.mp4",
+        "class_name": "Explosion",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.30754597336715284,
+                0.4280279010779962
+            ],
+            [
+                0.4914394419784401,
+                1.0006341154090044
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Explosion035_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Explosion035_x264.mp4",
+        "class_name": "Explosion",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.08726003490401396,
+                0.12216404886561955
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Explosion036_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Explosion036_x264.mp4",
+        "class_name": "Explosion",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.36605969588886805,
+                0.3885864464051061
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Explosion039_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Explosion039_x264.mp4",
+        "class_name": "Explosion",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.06012024048096192,
+                0.15030060120240482
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Explosion043_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Explosion043_x264.mp4",
+        "class_name": "Explosion",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.5833115354433691,
+                0.6016217630133404
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Fighting003_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Fighting003_x264.mp4",
+        "class_name": "Fighting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.5867182462927144,
+                1.000322372662798
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Fighting018_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Fighting018_x264.mp4",
+        "class_name": "Fighting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.05759539236861051,
+                0.3023758099352052
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Fighting033_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Fighting033_x264.mp4",
+        "class_name": "Fighting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.5158371040723982,
+                0.7601809954751131
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Fighting042_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Fighting042_x264.mp4",
+        "class_name": "Fighting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.12963790791238267,
+                0.5364327223960662
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Fighting047_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Fighting047_x264.mp4",
+        "class_name": "Fighting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.04485310607759587,
+                0.41040592061000225
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_003_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_003_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_006_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_006_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_010_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_010_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_014_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_014_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_015_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_015_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_018_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_018_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_019_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_019_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_024_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_024_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_025_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_025_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_027_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_027_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_033_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_033_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_034_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_034_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_041_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_041_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_042_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_042_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_048_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_048_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_050_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_050_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_051_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_051_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_056_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_056_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_059_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_059_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_063_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_063_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_067_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_067_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_070_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_070_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_100_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_100_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_129_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_129_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_150_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_150_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_168_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_168_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_175_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_175_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_182_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_182_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_189_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_189_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_196_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_196_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_203_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_203_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_210_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_210_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_217_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_217_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_224_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_224_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_246_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_246_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_247_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_247_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_248_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_248_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_251_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_251_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_289_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_289_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_310_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_310_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_312_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_312_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_317_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_317_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_345_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_345_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_352_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_352_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_360_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_360_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_365_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_365_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_401_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_401_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_417_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_417_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_439_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_439_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_452_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_452_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_453_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_453_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_478_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_478_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_576_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_576_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_597_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_597_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_603_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_603_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_606_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_606_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_621_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_621_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_634_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_634_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_641_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_641_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_656_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_656_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_686_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_686_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_696_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_696_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_702_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_702_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_704_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_704_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_710_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_710_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_717_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_717_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_722_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_722_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_725_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_725_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_745_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_745_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_758_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_758_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_778_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_778_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_780_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_780_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_781_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_781_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_782_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_782_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_783_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_783_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_798_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_798_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_801_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_801_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_828_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_828_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_831_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_831_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_866_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_866_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_867_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_867_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_868_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_868_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_869_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_869_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_870_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_870_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_871_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_871_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_872_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_872_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_873_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_873_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_874_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_874_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_875_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_875_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_876_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_876_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_877_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_877_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_878_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_878_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_879_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_879_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_880_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_880_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_881_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_881_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_882_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_882_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_883_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_883_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_884_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_884_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_885_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_885_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_886_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_886_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_887_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_887_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_888_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_888_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_889_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_889_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_890_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_890_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_891_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_891_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_892_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_892_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_893_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_893_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_894_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_894_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_895_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_895_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_896_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_896_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_897_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_897_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_898_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_898_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_899_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_899_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_900_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_900_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_901_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_901_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_902_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_902_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_903_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_903_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_904_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_904_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_905_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_905_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_906_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_906_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_907_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_907_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_908_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_908_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_909_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_909_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_910_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_910_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_911_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_911_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_912_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_912_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_913_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_913_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_914_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_914_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_915_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_915_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_923_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_923_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_924_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_924_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_925_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_925_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_926_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_926_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_927_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_927_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_928_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_928_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_929_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_929_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_930_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_930_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_931_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_931_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_932_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_932_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_933_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_933_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_934_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_934_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_935_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_935_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_936_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_936_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_937_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_937_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_938_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_938_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_939_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_939_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_940_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_940_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_941_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_941_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_943_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_943_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/Normal_Videos_944_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Normal_Videos_944_x264.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/ucf_features/RoadAccidents001_x264.npy",
+        "video_path": "other_datasets/ucf_videos/RoadAccidents001_x264.mp4",
+        "class_name": "RoadAccidents",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.15373352855051245,
+                0.21961932650073207
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/RoadAccidents002_x264.npy",
+        "video_path": "other_datasets/ucf_videos/RoadAccidents002_x264.mp4",
+        "class_name": "RoadAccidents",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.69164265129683,
+                0.8645533141210374
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/RoadAccidents004_x264.npy",
+        "video_path": "other_datasets/ucf_videos/RoadAccidents004_x264.mp4",
+        "class_name": "RoadAccidents",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.35989717223650386,
+                0.48586118251928023
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/RoadAccidents009_x264.npy",
+        "video_path": "other_datasets/ucf_videos/RoadAccidents009_x264.mp4",
+        "class_name": "RoadAccidents",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.22875816993464052,
+                0.26143790849673204
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/RoadAccidents010_x264.npy",
+        "video_path": "other_datasets/ucf_videos/RoadAccidents010_x264.mp4",
+        "class_name": "RoadAccidents",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.4356060606060606,
+                0.5113636363636364
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/RoadAccidents011_x264.npy",
+        "video_path": "other_datasets/ucf_videos/RoadAccidents011_x264.mp4",
+        "class_name": "RoadAccidents",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.12042612320518759,
+                0.13895321908290875
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/RoadAccidents012_x264.npy",
+        "video_path": "other_datasets/ucf_videos/RoadAccidents012_x264.mp4",
+        "class_name": "RoadAccidents",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.5341880341880342,
+                0.8333333333333334
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/RoadAccidents016_x264.npy",
+        "video_path": "other_datasets/ucf_videos/RoadAccidents016_x264.mp4",
+        "class_name": "RoadAccidents",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.2417883211678832,
+                0.3284671532846715
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/RoadAccidents017_x264.npy",
+        "video_path": "other_datasets/ucf_videos/RoadAccidents017_x264.mp4",
+        "class_name": "RoadAccidents",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.24691358024691357,
+                0.5349794238683128
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/RoadAccidents019_x264.npy",
+        "video_path": "other_datasets/ucf_videos/RoadAccidents019_x264.mp4",
+        "class_name": "RoadAccidents",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.5707762557077626,
+                0.684931506849315
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/RoadAccidents020_x264.npy",
+        "video_path": "other_datasets/ucf_videos/RoadAccidents020_x264.mp4",
+        "class_name": "RoadAccidents",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.34404963338973493,
+                0.41173152848279754
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/RoadAccidents021_x264.npy",
+        "video_path": "other_datasets/ucf_videos/RoadAccidents021_x264.mp4",
+        "class_name": "RoadAccidents",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.1935483870967742,
+                0.5806451612903226
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/RoadAccidents022_x264.npy",
+        "video_path": "other_datasets/ucf_videos/RoadAccidents022_x264.mp4",
+        "class_name": "RoadAccidents",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.16759776536312848,
+                0.30726256983240224
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/RoadAccidents121_x264.npy",
+        "video_path": "other_datasets/ucf_videos/RoadAccidents121_x264.mp4",
+        "class_name": "RoadAccidents",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.17983651226158037,
+                0.2125340599455041
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/RoadAccidents122_x264.npy",
+        "video_path": "other_datasets/ucf_videos/RoadAccidents122_x264.mp4",
+        "class_name": "RoadAccidents",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.46367851622874806,
+                0.5564142194744977
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/RoadAccidents123_x264.npy",
+        "video_path": "other_datasets/ucf_videos/RoadAccidents123_x264.mp4",
+        "class_name": "RoadAccidents",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.12935323383084577,
+                0.208955223880597
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/RoadAccidents124_x264.npy",
+        "video_path": "other_datasets/ucf_videos/RoadAccidents124_x264.mp4",
+        "class_name": "RoadAccidents",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.16722408026755853,
+                0.2809364548494983
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/RoadAccidents125_x264.npy",
+        "video_path": "other_datasets/ucf_videos/RoadAccidents125_x264.mp4",
+        "class_name": "RoadAccidents",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.2766798418972332,
+                0.33879164313946925
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/RoadAccidents127_x264.npy",
+        "video_path": "other_datasets/ucf_videos/RoadAccidents127_x264.mp4",
+        "class_name": "RoadAccidents",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.8372093023255814,
+                0.8914728682170543
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/RoadAccidents128_x264.npy",
+        "video_path": "other_datasets/ucf_videos/RoadAccidents128_x264.mp4",
+        "class_name": "RoadAccidents",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.1592920353982301,
+                0.35398230088495575
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/RoadAccidents131_x264.npy",
+        "video_path": "other_datasets/ucf_videos/RoadAccidents131_x264.mp4",
+        "class_name": "RoadAccidents",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.11811023622047244,
+                0.15748031496062992
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/RoadAccidents132_x264.npy",
+        "video_path": "other_datasets/ucf_videos/RoadAccidents132_x264.mp4",
+        "class_name": "RoadAccidents",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.11815252416756176,
+                0.17185821697099893
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/RoadAccidents133_x264.npy",
+        "video_path": "other_datasets/ucf_videos/RoadAccidents133_x264.mp4",
+        "class_name": "RoadAccidents",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.4011887072808321,
+                0.6686478454680534
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Robbery048_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Robbery048_x264.mp4",
+        "class_name": "Robbery",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.319375443577005,
+                0.6600425833924769
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Robbery050_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Robbery050_x264.mp4",
+        "class_name": "Robbery",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.291005291005291,
+                0.8289241622574955
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Robbery102_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Robbery102_x264.mp4",
+        "class_name": "Robbery",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.5911330049261084,
+                0.8538587848932676
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Robbery106_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Robbery106_x264.mp4",
+        "class_name": "Robbery",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.40100250626566414,
+                0.5012531328320802
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Robbery137_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Robbery137_x264.mp4",
+        "class_name": "Robbery",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.06155950752393981,
+                0.8891928864569083
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Shooting002_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Shooting002_x264.mp4",
+        "class_name": "Shooting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.845771144278607,
+                0.912106135986733
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Shooting004_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Shooting004_x264.mp4",
+        "class_name": "Shooting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.2788622420524261,
+                0.36809815950920244
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Shooting007_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Shooting007_x264.mp4",
+        "class_name": "Shooting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.03146853146853147,
+                0.11538461538461539
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Shooting008_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Shooting008_x264.mp4",
+        "class_name": "Shooting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.046153846153846156,
+                0.19384615384615383
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Shooting010_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Shooting010_x264.mp4",
+        "class_name": "Shooting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.41461567588034837,
+                0.4770920106020447
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Shooting011_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Shooting011_x264.mp4",
+        "class_name": "Shooting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.36972270796902323,
+                0.437172120909318
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Shooting013_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Shooting013_x264.mp4",
+        "class_name": "Shooting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.8014911463187325,
+                0.880708294501398
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Shooting015_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Shooting015_x264.mp4",
+        "class_name": "Shooting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.4991243432574431,
+                1.0011675423234092
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Shooting018_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Shooting018_x264.mp4",
+        "class_name": "Shooting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.17509727626459143,
+                0.2668148971650917
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Shooting019_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Shooting019_x264.mp4",
+        "class_name": "Shooting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.37010159651669083,
+                0.5279390420899854
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Shooting021_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Shooting021_x264.mp4",
+        "class_name": "Shooting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.3764705882352941,
+                0.49411764705882355
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Shooting022_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Shooting022_x264.mp4",
+        "class_name": "Shooting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.6258234519104084,
+                0.7246376811594203
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Shooting024_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Shooting024_x264.mp4",
+        "class_name": "Shooting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.3594608087868198,
+                0.6515227159261109
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Shooting026_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Shooting026_x264.mp4",
+        "class_name": "Shooting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.13898788310762653,
+                0.4276550249465431
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Shooting028_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Shooting028_x264.mp4",
+        "class_name": "Shooting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.15015806111696522,
+                0.2924130663856691
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Shooting032_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Shooting032_x264.mp4",
+        "class_name": "Shooting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.36875605368756054,
+                0.3784419537844195
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Shooting033_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Shooting033_x264.mp4",
+        "class_name": "Shooting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.4628099173553719,
+                0.5509641873278237
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Shooting034_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Shooting034_x264.mp4",
+        "class_name": "Shooting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.681334279630944,
+                0.7452093683463449
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Shooting037_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Shooting037_x264.mp4",
+        "class_name": "Shooting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.45901639344262296,
+                0.8524590163934426
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Shooting043_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Shooting043_x264.mp4",
+        "class_name": "Shooting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.5042689434364994,
+                0.656350053361793
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Shooting046_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Shooting046_x264.mp4",
+        "class_name": "Shooting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.7871462264150944,
+                0.8313679245283019
+            ],
+            [
+                0.9355345911949685,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Shooting047_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Shooting047_x264.mp4",
+        "class_name": "Shooting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.26064920960540605,
+                0.4706166284542054
+            ],
+            [
+                0.5864607216121637,
+                0.796428140460963
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Shooting048_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Shooting048_x264.mp4",
+        "class_name": "Shooting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.514410798978475,
+                0.6311565122218169
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Shoplifting001_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Shoplifting001_x264.mp4",
+        "class_name": "Shoplifting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.35681399631675875,
+                0.4604051565377532
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Shoplifting004_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Shoplifting004_x264.mp4",
+        "class_name": "Shoplifting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.32968679754233476,
+                0.7343024127079275
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Shoplifting005_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Shoplifting005_x264.mp4",
+        "class_name": "Shoplifting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.36603965429588203,
+                0.472801220132181
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Shoplifting007_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Shoplifting007_x264.mp4",
+        "class_name": "Shoplifting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.10733801717408274,
+                0.1483216237314598
+            ],
+            [
+                0.9035909445745511,
+                0.9601873536299765
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Shoplifting010_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Shoplifting010_x264.mp4",
+        "class_name": "Shoplifting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.2741228070175439,
+                0.3362573099415205
+            ],
+            [
+                0.5665204678362573,
+                0.7200292397660819
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Shoplifting015_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Shoplifting015_x264.mp4",
+        "class_name": "Shoplifting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.8909574468085106,
+                0.9574468085106383
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Shoplifting016_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Shoplifting016_x264.mp4",
+        "class_name": "Shoplifting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.42481456507080245,
+                0.4855023600809171
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Shoplifting017_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Shoplifting017_x264.mp4",
+        "class_name": "Shoplifting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.787746170678337,
+                0.9190371991247265
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Shoplifting020_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Shoplifting020_x264.mp4",
+        "class_name": "Shoplifting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.4055459272097054,
+                0.42634315424610053
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Shoplifting021_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Shoplifting021_x264.mp4",
+        "class_name": "Shoplifting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.5829343846803717,
+                0.6251760067586596
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Shoplifting022_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Shoplifting022_x264.mp4",
+        "class_name": "Shoplifting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.12323140118667275,
+                0.19169329073482427
+            ],
+            [
+                0.6572341396622546,
+                0.7120036513007759
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Shoplifting027_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Shoplifting027_x264.mp4",
+        "class_name": "Shoplifting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.5766150560597971,
+                0.6193272824345969
+            ],
+            [
+                0.7848371596369461,
+                0.9129738387613454
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Shoplifting028_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Shoplifting028_x264.mp4",
+        "class_name": "Shoplifting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.4200442151805453,
+                0.6190125276344879
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Shoplifting029_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Shoplifting029_x264.mp4",
+        "class_name": "Shoplifting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.46875,
+                0.6755514705882353
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Shoplifting031_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Shoplifting031_x264.mp4",
+        "class_name": "Shoplifting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.2684563758389262,
+                0.738255033557047
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Shoplifting033_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Shoplifting033_x264.mp4",
+        "class_name": "Shoplifting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.7007786429365962,
+                0.8342602892102335
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Shoplifting034_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Shoplifting034_x264.mp4",
+        "class_name": "Shoplifting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.6157325961296808,
+                0.6257853732093491
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Shoplifting037_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Shoplifting037_x264.mp4",
+        "class_name": "Shoplifting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.8225108225108225,
+                0.8658008658008658
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Shoplifting039_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Shoplifting039_x264.mp4",
+        "class_name": "Shoplifting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.7813057438458794,
+                0.8348198358901178
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Shoplifting044_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Shoplifting044_x264.mp4",
+        "class_name": "Shoplifting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.7605633802816901,
+                0.7729302645139128
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Shoplifting049_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Shoplifting049_x264.mp4",
+        "class_name": "Shoplifting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.4746393671475105,
+                0.6281991624011168
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Stealing019_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Stealing019_x264.mp4",
+        "class_name": "Stealing",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.5558949297495418,
+                0.5681124007330483
+            ],
+            [
+                0.8491142333536957,
+                0.885766646304215
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Stealing036_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Stealing036_x264.mp4",
+        "class_name": "Stealing",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.5033959248901319,
+                0.6352377147423093
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Stealing058_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Stealing058_x264.mp4",
+        "class_name": "Stealing",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.11420557002604688,
+                0.733319975956722
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Stealing062_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Stealing062_x264.mp4",
+        "class_name": "Stealing",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.23076923076923078,
+                0.6730769230769231
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Stealing079_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Stealing079_x264.mp4",
+        "class_name": "Stealing",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.43619568936024633,
+                0.549093397194663
+            ],
+            [
+                0.6004105371193978,
+                0.769757098871023
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Vandalism007_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Vandalism007_x264.mp4",
+        "class_name": "Vandalism",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.2094240837696335,
+                0.6544502617801047
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Vandalism015_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Vandalism015_x264.mp4",
+        "class_name": "Vandalism",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.6740442655935613,
+                0.9054325955734407
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Vandalism017_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Vandalism017_x264.mp4",
+        "class_name": "Vandalism",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.26706231454005935,
+                0.3264094955489614
+            ],
+            [
+                0.771513353115727,
+                0.8308605341246291
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Vandalism028_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Vandalism028_x264.mp4",
+        "class_name": "Vandalism",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.407119021134594,
+                0.44048943270300334
+            ],
+            [
+                0.5339265850945495,
+                0.5939933259176863
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/ucf_features/Vandalism036_x264.npy",
+        "video_path": "other_datasets/ucf_videos/Vandalism036_x264.mp4",
+        "class_name": "Vandalism",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.37422037422037424,
+                0.5405405405405406
+            ],
+            [
+                0.6860706860706861,
+                0.7484407484407485
+            ]
+        ]
+    }
+]

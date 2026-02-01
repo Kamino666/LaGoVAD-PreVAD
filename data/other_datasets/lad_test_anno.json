@@ -1,0 +1,5778 @@
+[
+    {
+        "path": "other_datasets/lad_features/v_Crash_a_s017_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Crash_a_s017_c001.avi",
+        "class_name": "Crash",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.1759465478841871,
+                0.5902004454342984
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Crash_a_s001_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Crash_a_s001_c001.avi",
+        "class_name": "Crash",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.32293986636971045,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Crash_a_s002_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Crash_a_s002_c001.avi",
+        "class_name": "Crash",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.42084168336673344,
+                0.56312625250501
+            ],
+            [
+                0.6452905811623246,
+                0.6613226452905812
+            ],
+            [
+                0.6913827655310621,
+                0.7254509018036072
+            ],
+            [
+                0.7414829659318637,
+                0.7715430861723447
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Crash_a_s003_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Crash_a_s003_c001.avi",
+        "class_name": "Crash",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.686456400742115,
+                0.8256029684601113
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Crash_a_s004_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Crash_a_s004_c001.avi",
+        "class_name": "Crash",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.40458015267175573,
+                0.5305343511450382
+            ],
+            [
+                0.6736641221374046,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Crash_a_s005_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Crash_a_s005_c001.avi",
+        "class_name": "Crash",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.5338345864661654,
+                0.7543859649122807
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Crash_a_s006_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Crash_a_s006_c001.avi",
+        "class_name": "Crash",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.20240480961923848,
+                0.34468937875751504
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Crash_a_s007_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Crash_a_s007_c001.avi",
+        "class_name": "Crash",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.44339622641509435,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Crash_a_s008_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Crash_a_s008_c001.avi",
+        "class_name": "Crash",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.42084168336673344,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Crash_a_s009_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Crash_a_s009_c001.avi",
+        "class_name": "Crash",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.35824175824175825,
+                0.421978021978022
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Crash_a_s010_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Crash_a_s010_c001.avi",
+        "class_name": "Crash",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.204,
+                0.358
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Crash_a_s011_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Crash_a_s011_c001.avi",
+        "class_name": "Crash",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.8358358358358359,
+                0.9119119119119119
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Crash_a_s012_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Crash_a_s012_c001.avi",
+        "class_name": "Crash",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.29009433962264153,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Crash_a_s013_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Crash_a_s013_c001.avi",
+        "class_name": "Crash",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.4749498997995992,
+                0.48697394789579157
+            ],
+            [
+                0.4909819639278557,
+                0.5350701402805611
+            ],
+            [
+                0.5370741482965932,
+                0.5430861723446894
+            ],
+            [
+                0.5470941883767535,
+                0.7535070140280561
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Crash_a_s014_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Crash_a_s014_c001.avi",
+        "class_name": "Crash",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.584,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Crash_a_s015_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Crash_a_s015_c001.avi",
+        "class_name": "Crash",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.5130260521042084,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Crash_a_s016_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Crash_a_s016_c001.avi",
+        "class_name": "Crash",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.342,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Crash_a_s018_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Crash_a_s018_c001.avi",
+        "class_name": "Crash",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.7580645161290323,
+                0.9354838709677419
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Crash_a_s019_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Crash_a_s019_c001.avi",
+        "class_name": "Crash",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.28421052631578947,
+                0.44842105263157894
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Crash_a_s020_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Crash_a_s020_c001.avi",
+        "class_name": "Crash",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.7,
+                0.788
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Crash_n_s001_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Crash_n_s001_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Crash_n_s002_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Crash_n_s002_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Crash_n_s003_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Crash_n_s003_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Crash_n_s004_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Crash_n_s004_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Crash_n_s005_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Crash_n_s005_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Crash_n_s006_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Crash_n_s006_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Crash_n_s006_c002.npy",
+        "video_path": "other_datasets/lad_videos/v_Crash_n_s006_c002.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Crash_n_s007_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Crash_n_s007_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Crash_n_s007_c002.npy",
+        "video_path": "other_datasets/lad_videos/v_Crash_n_s007_c002.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Crash_n_s008_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Crash_n_s008_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Crash_n_s009_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Crash_n_s009_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Crash_n_s010_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Crash_n_s010_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Crash_n_s011_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Crash_n_s011_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Crash_n_s012_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Crash_n_s012_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Crash_n_s012_c002.npy",
+        "video_path": "other_datasets/lad_videos/v_Crash_n_s012_c002.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Crash_n_s013_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Crash_n_s013_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Crash_n_s013_c002.npy",
+        "video_path": "other_datasets/lad_videos/v_Crash_n_s013_c002.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Crash_n_s013_c003.npy",
+        "video_path": "other_datasets/lad_videos/v_Crash_n_s013_c003.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Crash_n_s014_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Crash_n_s014_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Crash_n_s015_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Crash_n_s015_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Crowd_a_s017_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Crowd_a_s017_c001.avi",
+        "class_name": "Crowd",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.650853889943074,
+                0.9724857685009488
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Crowd_a_s001_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Crowd_a_s001_c001.avi",
+        "class_name": "Crowd",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.19477693144722524,
+                0.9934711643090316
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Crowd_a_s002_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Crowd_a_s002_c001.avi",
+        "class_name": "Crowd",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.038461538461538464,
+                0.23311444652908067
+            ],
+            [
+                0.2406191369606004,
+                0.5290806754221389
+            ],
+            [
+                0.5403377110694184,
+                0.5412757973733584
+            ],
+            [
+                0.5680112570356473,
+                0.876641651031895
+            ],
+            [
+                0.8888367729831145,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Crowd_a_s003_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Crowd_a_s003_c001.avi",
+        "class_name": "Crowd",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.10486177311725453,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Crowd_a_s004_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Crowd_a_s004_c001.avi",
+        "class_name": "Crowd",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.1603563474387528,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Crowd_a_s005_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Crowd_a_s005_c001.avi",
+        "class_name": "Crowd",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.03544882790165809,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Crowd_a_s006_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Crowd_a_s006_c001.avi",
+        "class_name": "Crowd",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.5621805792163543
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Crowd_a_s007_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Crowd_a_s007_c001.avi",
+        "class_name": "Crowd",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.09786476868327403,
+                0.6583629893238434
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Crowd_a_s008_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Crowd_a_s008_c001.avi",
+        "class_name": "Crowd",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.012567324955116697,
+                0.48473967684021546
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Crowd_a_s009_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Crowd_a_s009_c001.avi",
+        "class_name": "Crowd",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.5767234988880652,
+                0.5833951074870274
+            ],
+            [
+                0.5945144551519644,
+                0.6278724981467754
+            ],
+            [
+                0.6293550778354337,
+                0.6664195700518903
+            ],
+            [
+                0.6716085989621943,
+                0.7398072646404744
+            ],
+            [
+                0.7435137138621201,
+                0.7620459599703484
+            ],
+            [
+                0.7642698295033358,
+                0.9125277983691623
+            ],
+            [
+                0.916234247590808,
+                0.9362490733876946
+            ],
+            [
+                0.9406968124536694,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Crowd_a_s010_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Crowd_a_s010_c001.avi",
+        "class_name": "Crowd",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.032665964172813484,
+                0.17175974710221287
+            ],
+            [
+                0.3287671232876712,
+                0.7144362486828241
+            ],
+            [
+                0.7924130663856691,
+                0.9430979978925185
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Crowd_a_s011_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Crowd_a_s011_c001.avi",
+        "class_name": "Crowd",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.27019498607242337,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Crowd_a_s012_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Crowd_a_s012_c001.avi",
+        "class_name": "Crowd",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.3690060336614798,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Crowd_a_s013_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Crowd_a_s013_c001.avi",
+        "class_name": "Crowd",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.18631178707224336,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Crowd_a_s014_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Crowd_a_s014_c001.avi",
+        "class_name": "Crowd",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.9324090121317158
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Crowd_a_s015_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Crowd_a_s015_c001.avi",
+        "class_name": "Crowd",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.09753593429158111,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Crowd_a_s016_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Crowd_a_s016_c001.avi",
+        "class_name": "Crowd",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.5360443622920518,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Crowd_a_s018_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Crowd_a_s018_c001.avi",
+        "class_name": "Crowd",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Crowd_a_s019_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Crowd_a_s019_c001.avi",
+        "class_name": "Crowd",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.04699738903394256,
+                0.2689295039164491
+            ],
+            [
+                0.2863359442993908,
+                0.3646649260226284
+            ],
+            [
+                0.4630113141862489,
+                0.8703220191470844
+            ],
+            [
+                0.8885987815491732,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Crowd_a_s020_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Crowd_a_s020_c001.avi",
+        "class_name": "Crowd",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.601010101010101,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Crowd_n_s001_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Crowd_n_s001_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Crowd_n_s002_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Crowd_n_s002_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Crowd_n_s003_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Crowd_n_s003_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Crowd_n_s004_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Crowd_n_s004_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Crowd_n_s005_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Crowd_n_s005_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Crowd_n_s006_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Crowd_n_s006_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Crowd_n_s007_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Crowd_n_s007_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Crowd_n_s008_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Crowd_n_s008_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Crowd_n_s009_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Crowd_n_s009_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Crowd_n_s010_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Crowd_n_s010_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Crowd_n_s011_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Crowd_n_s011_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Crowd_n_s012_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Crowd_n_s012_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Crowd_n_s013_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Crowd_n_s013_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Crowd_n_s014_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Crowd_n_s014_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Crowd_n_s015_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Crowd_n_s015_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Crowd_n_s016_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Crowd_n_s016_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Crowd_n_s017_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Crowd_n_s017_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Crowd_n_s018_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Crowd_n_s018_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Crowd_n_s019_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Crowd_n_s019_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Crowd_n_s020_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Crowd_n_s020_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Destroy_a_s016_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Destroy_a_s016_c001.avi",
+        "class_name": "Destroy",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.05034324942791762,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Destroy_a_s001_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Destroy_a_s001_c001.avi",
+        "class_name": "Destroy",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.14122448979591837,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Destroy_a_s002_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Destroy_a_s002_c001.avi",
+        "class_name": "Destroy",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.6354166666666666,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Destroy_a_s003_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Destroy_a_s003_c001.avi",
+        "class_name": "Destroy",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.049399198931909215,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Destroy_a_s004_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Destroy_a_s004_c001.avi",
+        "class_name": "Destroy",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.7528735632183908,
+                0.896551724137931
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Destroy_a_s005_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Destroy_a_s005_c001.avi",
+        "class_name": "Destroy",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.5811138014527845,
+                0.8438256658595642
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Destroy_a_s006_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Destroy_a_s006_c001.avi",
+        "class_name": "Destroy",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.049783549783549784,
+                0.16774891774891776
+            ],
+            [
+                0.5140692640692641,
+                0.9253246753246753
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Destroy_a_s007_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Destroy_a_s007_c001.avi",
+        "class_name": "Destroy",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.5644444444444444,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Destroy_a_s008_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Destroy_a_s008_c001.avi",
+        "class_name": "Destroy",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.1315136476426799,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Destroy_a_s009_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Destroy_a_s009_c001.avi",
+        "class_name": "Destroy",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.5879732739420935,
+                0.9131403118040089
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Destroy_a_s010_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Destroy_a_s010_c001.avi",
+        "class_name": "Destroy",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.33157894736842103,
+                0.9263157894736842
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Destroy_a_s011_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Destroy_a_s011_c001.avi",
+        "class_name": "Destroy",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.11813643926788686,
+                0.1464226289517471
+            ],
+            [
+                0.2529118136439268,
+                0.3194675540765391
+            ],
+            [
+                0.3793677204658902,
+                0.46422628951747086
+            ],
+            [
+                0.6405990016638935,
+                0.7853577371048253
+            ],
+            [
+                0.8435940099833611,
+                0.9833610648918469
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Destroy_a_s012_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Destroy_a_s012_c001.avi",
+        "class_name": "Destroy",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.20695652173913043,
+                0.24695652173913044
+            ],
+            [
+                0.46956521739130436,
+                0.9756521739130435
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Destroy_a_s013_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Destroy_a_s013_c001.avi",
+        "class_name": "Destroy",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.2358490566037736,
+                0.5306603773584906
+            ],
+            [
+                0.5849056603773585,
+                0.660377358490566
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Destroy_a_s014_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Destroy_a_s014_c001.avi",
+        "class_name": "Destroy",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.8445475638051044,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Destroy_a_s015_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Destroy_a_s015_c001.avi",
+        "class_name": "Destroy",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.02581261950286807,
+                0.04110898661567878
+            ],
+            [
+                0.13575525812619502,
+                0.16539196940726578
+            ],
+            [
+                0.27820267686424477,
+                0.29923518164435947
+            ],
+            [
+                0.3193116634799235,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Destroy_a_s017_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Destroy_a_s017_c001.avi",
+        "class_name": "Destroy",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.022211253701875617,
+                0.04639684106614018
+            ],
+            [
+                0.049358341559723594,
+                0.05824284304047384
+            ],
+            [
+                0.20286278381046396,
+                0.21520236920039487
+            ],
+            [
+                0.2912142152023692,
+                0.3311944718657453
+            ],
+            [
+                0.8479763079960513,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Destroy_a_s018_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Destroy_a_s018_c001.avi",
+        "class_name": "Destroy",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.09732824427480916,
+                0.16030534351145037
+            ],
+            [
+                0.3702290076335878,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Destroy_a_s019_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Destroy_a_s019_c001.avi",
+        "class_name": "Destroy",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.41711229946524064,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Destroy_a_s020_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Destroy_a_s020_c001.avi",
+        "class_name": "Destroy",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.08064516129032258,
+                0.6935483870967742
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Destroy_n_s001_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Destroy_n_s001_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Destroy_n_s002_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Destroy_n_s002_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Destroy_n_s003_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Destroy_n_s003_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Destroy_n_s004_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Destroy_n_s004_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Destroy_n_s005_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Destroy_n_s005_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Destroy_n_s006_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Destroy_n_s006_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Destroy_n_s007_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Destroy_n_s007_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Destroy_n_s008_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Destroy_n_s008_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Destroy_n_s009_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Destroy_n_s009_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Destroy_n_s010_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Destroy_n_s010_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Destroy_n_s011_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Destroy_n_s011_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Destroy_n_s012_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Destroy_n_s012_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Destroy_n_s013_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Destroy_n_s013_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Destroy_n_s014_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Destroy_n_s014_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Destroy_n_s015_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Destroy_n_s015_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Destroy_n_s016_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Destroy_n_s016_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Destroy_n_s017_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Destroy_n_s017_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Destroy_n_s018_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Destroy_n_s018_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Destroy_n_s019_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Destroy_n_s019_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Destroy_n_s020_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Destroy_n_s020_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Drop_a_s017_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Drop_a_s017_c001.avi",
+        "class_name": "Drop",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.042682926829268296,
+                0.24390243902439024
+            ],
+            [
+                0.2682926829268293,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Drop_a_s001_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Drop_a_s001_c001.avi",
+        "class_name": "Drop",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.421455938697318,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Drop_a_s002_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Drop_a_s002_c001.avi",
+        "class_name": "Drop",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.4225721784776903,
+                0.6141732283464567
+            ],
+            [
+                0.8293963254593176,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Drop_a_s003_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Drop_a_s003_c001.avi",
+        "class_name": "Drop",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.13961813842482101,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Drop_a_s004_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Drop_a_s004_c001.avi",
+        "class_name": "Drop",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.5190156599552572,
+                0.610738255033557
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Drop_a_s005_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Drop_a_s005_c001.avi",
+        "class_name": "Drop",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.2558139534883721,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Drop_a_s006_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Drop_a_s006_c001.avi",
+        "class_name": "Drop",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.2917933130699088,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Drop_a_s007_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Drop_a_s007_c001.avi",
+        "class_name": "Drop",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.30049261083743845,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Drop_a_s008_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Drop_a_s008_c001.avi",
+        "class_name": "Drop",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.22164948453608246,
+                0.6030927835051546
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Drop_a_s009_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Drop_a_s009_c001.avi",
+        "class_name": "Drop",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.4722222222222222,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Drop_a_s010_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Drop_a_s010_c001.avi",
+        "class_name": "Drop",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.29797101449275365,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Drop_a_s011_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Drop_a_s011_c001.avi",
+        "class_name": "Drop",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.19836214740673339,
+                0.7124658780709736
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Drop_a_s012_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Drop_a_s012_c001.avi",
+        "class_name": "Drop",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.36054421768707484,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Drop_a_s013_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Drop_a_s013_c001.avi",
+        "class_name": "Drop",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.3601694915254237,
+                0.576271186440678
+            ],
+            [
+                0.7542372881355932,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Drop_a_s014_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Drop_a_s014_c001.avi",
+        "class_name": "Drop",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.24846625766871167,
+                0.6073619631901841
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Drop_a_s015_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Drop_a_s015_c001.avi",
+        "class_name": "Drop",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.2727272727272727,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Drop_a_s016_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Drop_a_s016_c001.avi",
+        "class_name": "Drop",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.6307692307692307,
+                0.8384615384615385
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Drop_a_s018_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Drop_a_s018_c001.avi",
+        "class_name": "Drop",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.4386694386694387,
+                0.997920997920998
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Drop_a_s019_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Drop_a_s019_c001.avi",
+        "class_name": "Drop",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Drop_a_s020_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Drop_a_s020_c001.avi",
+        "class_name": "Drop",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.4304635761589404,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Drop_n_s001_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Drop_n_s001_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Drop_n_s002_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Drop_n_s002_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Drop_n_s003_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Drop_n_s003_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Drop_n_s004_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Drop_n_s004_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Drop_n_s005_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Drop_n_s005_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Drop_n_s006_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Drop_n_s006_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Drop_n_s007_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Drop_n_s007_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Drop_n_s008_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Drop_n_s008_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Drop_n_s009_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Drop_n_s009_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Drop_n_s010_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Drop_n_s010_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Drop_n_s011_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Drop_n_s011_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Drop_n_s012_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Drop_n_s012_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Drop_n_s013_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Drop_n_s013_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Drop_n_s014_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Drop_n_s014_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Drop_n_s015_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Drop_n_s015_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Drop_n_s016_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Drop_n_s016_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Drop_n_s017_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Drop_n_s017_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Drop_n_s018_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Drop_n_s018_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Drop_n_s019_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Drop_n_s019_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Drop_n_s020_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Drop_n_s020_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Falling_a_s013_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Falling_a_s013_c001.avi",
+        "class_name": "Falling",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.08060453400503778,
+                0.24181360201511334
+            ],
+            [
+                0.3047858942065491,
+                0.45843828715365237
+            ],
+            [
+                0.7329974811083123,
+                0.9118387909319899
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Falling_a_s001_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Falling_a_s001_c001.avi",
+        "class_name": "Falling",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.34375,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Falling_a_s002_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Falling_a_s002_c001.avi",
+        "class_name": "Falling",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.7190635451505016,
+                0.8695652173913043
+            ],
+            [
+                0.8862876254180602,
+                0.8963210702341137
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Falling_a_s003_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Falling_a_s003_c001.avi",
+        "class_name": "Falling",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.7489539748953975,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Falling_a_s004_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Falling_a_s004_c001.avi",
+        "class_name": "Falling",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.73224043715847,
+                0.8506375227686703
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Falling_a_s005_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Falling_a_s005_c001.avi",
+        "class_name": "Falling",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.2465331278890601,
+                0.4699537750385208
+            ],
+            [
+                0.47919876733436056,
+                0.6271186440677966
+            ],
+            [
+                0.7781201848998459,
+                0.8243451463790447
+            ],
+            [
+                0.8798151001540832,
+                0.9583975346687211
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Falling_a_s006_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Falling_a_s006_c001.avi",
+        "class_name": "Falling",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.11646586345381527,
+                0.4578313253012048
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Falling_a_s006_c002.npy",
+        "video_path": "other_datasets/lad_videos/v_Falling_a_s006_c002.avi",
+        "class_name": "Falling",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.3026052104208417,
+                0.6352705410821643
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Falling_a_s007_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Falling_a_s007_c001.avi",
+        "class_name": "Falling",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0645879732739421,
+                0.2026726057906459
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Falling_a_s008_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Falling_a_s008_c001.avi",
+        "class_name": "Falling",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.5130890052356021,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Falling_a_s009_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Falling_a_s009_c001.avi",
+        "class_name": "Falling",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.5953177257525084,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Falling_a_s010_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Falling_a_s010_c001.avi",
+        "class_name": "Falling",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.5150300601202404,
+                0.7975951903807615
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Falling_a_s010_c002.npy",
+        "video_path": "other_datasets/lad_videos/v_Falling_a_s010_c002.avi",
+        "class_name": "Falling",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.4228456913827655,
+                0.6312625250501002
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Falling_a_s011_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Falling_a_s011_c001.avi",
+        "class_name": "Falling",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.3026052104208417,
+                0.4749498997995992
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Falling_a_s012_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Falling_a_s012_c001.avi",
+        "class_name": "Falling",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.7154811715481172,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Falling_a_s012_c002.npy",
+        "video_path": "other_datasets/lad_videos/v_Falling_a_s012_c002.avi",
+        "class_name": "Falling",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.12732919254658384,
+                0.2701863354037267
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Falling_a_s014_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Falling_a_s014_c001.avi",
+        "class_name": "Falling",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.366412213740458,
+                0.6755725190839694
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Falling_a_s014_c002.npy",
+        "video_path": "other_datasets/lad_videos/v_Falling_a_s014_c002.avi",
+        "class_name": "Falling",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.24248496993987975,
+                0.5871743486973948
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Falling_a_s014_c003.npy",
+        "video_path": "other_datasets/lad_videos/v_Falling_a_s014_c003.avi",
+        "class_name": "Falling",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.5591182364729459,
+                0.7474949899799599
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Falling_a_s014_c004.npy",
+        "video_path": "other_datasets/lad_videos/v_Falling_a_s014_c004.avi",
+        "class_name": "Falling",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.13310580204778158,
+                0.3924914675767918
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Falling_n_s001_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Falling_n_s001_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Falling_n_s002_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Falling_n_s002_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Falling_n_s003_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Falling_n_s003_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Falling_n_s004_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Falling_n_s004_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Falling_n_s005_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Falling_n_s005_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Falling_n_s006_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Falling_n_s006_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Falling_n_s006_c002.npy",
+        "video_path": "other_datasets/lad_videos/v_Falling_n_s006_c002.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Falling_n_s006_c003.npy",
+        "video_path": "other_datasets/lad_videos/v_Falling_n_s006_c003.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Falling_n_s006_c004.npy",
+        "video_path": "other_datasets/lad_videos/v_Falling_n_s006_c004.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Falling_n_s006_c005.npy",
+        "video_path": "other_datasets/lad_videos/v_Falling_n_s006_c005.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Falling_n_s007_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Falling_n_s007_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Falling_n_s007_c002.npy",
+        "video_path": "other_datasets/lad_videos/v_Falling_n_s007_c002.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Falling_n_s007_c003.npy",
+        "video_path": "other_datasets/lad_videos/v_Falling_n_s007_c003.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Falling_n_s007_c004.npy",
+        "video_path": "other_datasets/lad_videos/v_Falling_n_s007_c004.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Falling_n_s007_c005.npy",
+        "video_path": "other_datasets/lad_videos/v_Falling_n_s007_c005.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Falling_n_s007_c006.npy",
+        "video_path": "other_datasets/lad_videos/v_Falling_n_s007_c006.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Falling_n_s008_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Falling_n_s008_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Falling_n_s008_c002.npy",
+        "video_path": "other_datasets/lad_videos/v_Falling_n_s008_c002.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Falling_n_s009_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Falling_n_s009_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Falling_n_s010_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Falling_n_s010_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_FallIntoWater_a_s014_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_FallIntoWater_a_s014_c001.avi",
+        "class_name": "FallIntoWater",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.6454849498327759,
+                0.9096989966555183
+            ],
+            [
+                0.9264214046822743,
+                0.9899665551839465
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_FallIntoWater_a_s001_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_FallIntoWater_a_s001_c001.avi",
+        "class_name": "FallIntoWater",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.03253796095444685,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_FallIntoWater_a_s002_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_FallIntoWater_a_s002_c001.avi",
+        "class_name": "FallIntoWater",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.2130694891854579,
+                0.281638288080994
+            ],
+            [
+                0.3851817763460654,
+                0.4698573400828348
+            ],
+            [
+                0.5025310630464795,
+                0.5628163828808099
+            ],
+            [
+                0.5945697192820985,
+                0.6157386102162908
+            ],
+            [
+                0.684767602393005,
+                0.8794293603313391
+            ],
+            [
+                0.8840312931431201,
+                0.9291302346985734
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_FallIntoWater_a_s003_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_FallIntoWater_a_s003_c001.avi",
+        "class_name": "FallIntoWater",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.6950904392764858,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_FallIntoWater_a_s004_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_FallIntoWater_a_s004_c001.avi",
+        "class_name": "FallIntoWater",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.5300146412884333,
+                0.755002440214739
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_FallIntoWater_a_s005_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_FallIntoWater_a_s005_c001.avi",
+        "class_name": "FallIntoWater",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.7987927565392354,
+                0.8430583501006036
+            ],
+            [
+                0.8531187122736419,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_FallIntoWater_a_s006_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_FallIntoWater_a_s006_c001.avi",
+        "class_name": "FallIntoWater",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.9401408450704225,
+                0.9929577464788732
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_FallIntoWater_a_s007_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_FallIntoWater_a_s007_c001.avi",
+        "class_name": "FallIntoWater",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.7014925373134329,
+                0.9291044776119403
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_FallIntoWater_a_s008_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_FallIntoWater_a_s008_c001.avi",
+        "class_name": "FallIntoWater",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.898876404494382,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_FallIntoWater_a_s009_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_FallIntoWater_a_s009_c001.avi",
+        "class_name": "FallIntoWater",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.6160714285714286,
+                0.6875
+            ],
+            [
+                0.7008928571428571,
+                0.7589285714285714
+            ],
+            [
+                0.8839285714285714,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_FallIntoWater_a_s010_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_FallIntoWater_a_s010_c001.avi",
+        "class_name": "FallIntoWater",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.9692622950819673,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_FallIntoWater_a_s011_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_FallIntoWater_a_s011_c001.avi",
+        "class_name": "FallIntoWater",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.34306569343065696,
+                0.7664233576642335
+            ],
+            [
+                0.8211678832116789,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_FallIntoWater_a_s012_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_FallIntoWater_a_s012_c001.avi",
+        "class_name": "FallIntoWater",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.8571428571428571,
+                0.9333333333333333
+            ],
+            [
+                0.9428571428571428,
+                0.9714285714285714
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_FallIntoWater_a_s013_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_FallIntoWater_a_s013_c001.avi",
+        "class_name": "FallIntoWater",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.24662162162162163,
+                0.41216216216216217
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_FallIntoWater_a_s013_c002.npy",
+        "video_path": "other_datasets/lad_videos/v_FallIntoWater_a_s013_c002.avi",
+        "class_name": "FallIntoWater",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.5513307984790875,
+                0.7604562737642585
+            ],
+            [
+                0.8935361216730038,
+                0.9847908745247148
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_FallIntoWater_a_s015_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_FallIntoWater_a_s015_c001.avi",
+        "class_name": "FallIntoWater",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.5922330097087378,
+                0.8187702265372169
+            ],
+            [
+                0.8192325473878872,
+                0.957004160887656
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_FallIntoWater_a_s016_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_FallIntoWater_a_s016_c001.avi",
+        "class_name": "FallIntoWater",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.8106904231625836,
+                0.910913140311804
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_FallIntoWater_a_s017_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_FallIntoWater_a_s017_c001.avi",
+        "class_name": "FallIntoWater",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.1346153846153846,
+                0.40384615384615385
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_FallIntoWater_a_s018_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_FallIntoWater_a_s018_c001.avi",
+        "class_name": "FallIntoWater",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.9736363636363636,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_FallIntoWater_a_s019_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_FallIntoWater_a_s019_c001.avi",
+        "class_name": "FallIntoWater",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.9820061255742726,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_FallIntoWater_n_s001_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_FallIntoWater_n_s001_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_FallIntoWater_n_s001_c002.npy",
+        "video_path": "other_datasets/lad_videos/v_FallIntoWater_n_s001_c002.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_FallIntoWater_n_s001_c003.npy",
+        "video_path": "other_datasets/lad_videos/v_FallIntoWater_n_s001_c003.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_FallIntoWater_n_s001_c004.npy",
+        "video_path": "other_datasets/lad_videos/v_FallIntoWater_n_s001_c004.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_FallIntoWater_n_s001_c005.npy",
+        "video_path": "other_datasets/lad_videos/v_FallIntoWater_n_s001_c005.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_FallIntoWater_n_s001_c006.npy",
+        "video_path": "other_datasets/lad_videos/v_FallIntoWater_n_s001_c006.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_FallIntoWater_n_s002_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_FallIntoWater_n_s002_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_FallIntoWater_n_s002_c002.npy",
+        "video_path": "other_datasets/lad_videos/v_FallIntoWater_n_s002_c002.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_FallIntoWater_n_s002_c003.npy",
+        "video_path": "other_datasets/lad_videos/v_FallIntoWater_n_s002_c003.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_FallIntoWater_n_s002_c004.npy",
+        "video_path": "other_datasets/lad_videos/v_FallIntoWater_n_s002_c004.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_FallIntoWater_n_s002_c005.npy",
+        "video_path": "other_datasets/lad_videos/v_FallIntoWater_n_s002_c005.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_FallIntoWater_n_s003_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_FallIntoWater_n_s003_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_FallIntoWater_n_s004_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_FallIntoWater_n_s004_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_FallIntoWater_n_s004_c002.npy",
+        "video_path": "other_datasets/lad_videos/v_FallIntoWater_n_s004_c002.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_FallIntoWater_n_s004_c003.npy",
+        "video_path": "other_datasets/lad_videos/v_FallIntoWater_n_s004_c003.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_FallIntoWater_n_s004_c004.npy",
+        "video_path": "other_datasets/lad_videos/v_FallIntoWater_n_s004_c004.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_FallIntoWater_n_s004_c005.npy",
+        "video_path": "other_datasets/lad_videos/v_FallIntoWater_n_s004_c005.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_FallIntoWater_n_s005_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_FallIntoWater_n_s005_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_FallIntoWater_n_s006_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_FallIntoWater_n_s006_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_FallIntoWater_n_s007_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_FallIntoWater_n_s007_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Fighting_a_s016_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Fighting_a_s016_c001.avi",
+        "class_name": "Fighting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.08393501805054152,
+                0.825511432009627
+            ],
+            [
+                0.8754512635379061,
+                0.9849578820697954
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Fighting_a_s001_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Fighting_a_s001_c001.avi",
+        "class_name": "Fighting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.3036182485579444,
+                0.7121132669113791
+            ],
+            [
+                0.8028316727844782,
+                0.9590980597797588
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Fighting_a_s002_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Fighting_a_s002_c001.avi",
+        "class_name": "Fighting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.40913415794481445,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Fighting_a_s003_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Fighting_a_s003_c001.avi",
+        "class_name": "Fighting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.14756671899529042,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Fighting_a_s004_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Fighting_a_s004_c001.avi",
+        "class_name": "Fighting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.6120283018867925,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Fighting_a_s005_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Fighting_a_s005_c001.avi",
+        "class_name": "Fighting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.13987231572838074
+            ],
+            [
+                0.1857225769007545,
+                0.702263493905978
+            ],
+            [
+                0.8258850841555426,
+                0.9233894370284388
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Fighting_a_s006_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Fighting_a_s006_c001.avi",
+        "class_name": "Fighting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.3058446757405925,
+                0.8102481985588471
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Fighting_a_s007_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Fighting_a_s007_c001.avi",
+        "class_name": "Fighting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.9022801302931596,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Fighting_a_s008_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Fighting_a_s008_c001.avi",
+        "class_name": "Fighting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.04716227018385292,
+                0.08553157474020784
+            ],
+            [
+                0.09352517985611511,
+                0.2589928057553957
+            ],
+            [
+                0.6730615507593924,
+                0.6850519584332534
+            ],
+            [
+                0.882494004796163,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Fighting_a_s009_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Fighting_a_s009_c001.avi",
+        "class_name": "Fighting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.026987951807228915,
+                0.05445783132530121
+            ],
+            [
+                0.07228915662650602,
+                0.5474698795180722
+            ],
+            [
+                0.5551807228915663,
+                0.588433734939759
+            ],
+            [
+                0.6366265060240964,
+                0.8481927710843373
+            ],
+            [
+                0.8737349397590362,
+                0.895421686746988
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Fighting_a_s010_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Fighting_a_s010_c001.avi",
+        "class_name": "Fighting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.05116279069767442,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Fighting_a_s011_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Fighting_a_s011_c001.avi",
+        "class_name": "Fighting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.9305064782096584
+            ],
+            [
+                0.9316843345111896,
+                0.9387514723203769
+            ],
+            [
+                0.9434628975265018,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Fighting_a_s012_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Fighting_a_s012_c001.avi",
+        "class_name": "Fighting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.2162883845126836,
+                0.9332443257676902
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Fighting_a_s013_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Fighting_a_s013_c001.avi",
+        "class_name": "Fighting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.16016016016016016,
+                0.6156156156156156
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Fighting_a_s014_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Fighting_a_s014_c001.avi",
+        "class_name": "Fighting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.29923761118170267,
+                0.8989834815756036
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Fighting_a_s015_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Fighting_a_s015_c001.avi",
+        "class_name": "Fighting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.026737967914438502,
+                0.6336898395721925
+            ],
+            [
+                0.642602495543672,
+                0.6443850267379679
+            ],
+            [
+                0.6461675579322638,
+                0.8244206773618539
+            ],
+            [
+                0.8288770053475936,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Fighting_a_s017_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Fighting_a_s017_c001.avi",
+        "class_name": "Fighting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.015128593040847202,
+                0.46747352496217853
+            ],
+            [
+                0.5249621785173979,
+                0.5809379727685325
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Fighting_a_s018_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Fighting_a_s018_c001.avi",
+        "class_name": "Fighting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Fighting_a_s019_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Fighting_a_s019_c001.avi",
+        "class_name": "Fighting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.06376518218623482,
+                0.944331983805668
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Fighting_a_s020_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Fighting_a_s020_c001.avi",
+        "class_name": "Fighting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.28343949044585987,
+                0.7420382165605095
+            ],
+            [
+                0.7452229299363057,
+                0.9426751592356688
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Fighting_n_s001_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Fighting_n_s001_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Fighting_n_s002_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Fighting_n_s002_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Fighting_n_s003_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Fighting_n_s003_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Fighting_n_s004_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Fighting_n_s004_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Fighting_n_s005_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Fighting_n_s005_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Fighting_n_s006_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Fighting_n_s006_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Fighting_n_s007_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Fighting_n_s007_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Fighting_n_s007_c002.npy",
+        "video_path": "other_datasets/lad_videos/v_Fighting_n_s007_c002.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Fighting_n_s008_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Fighting_n_s008_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Fighting_n_s009_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Fighting_n_s009_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Fighting_n_s010_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Fighting_n_s010_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Fighting_n_s011_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Fighting_n_s011_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Fighting_n_s012_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Fighting_n_s012_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Fighting_n_s013_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Fighting_n_s013_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Fighting_n_s014_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Fighting_n_s014_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Fighting_n_s014_c002.npy",
+        "video_path": "other_datasets/lad_videos/v_Fighting_n_s014_c002.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Fighting_n_s015_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Fighting_n_s015_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Fighting_n_s016_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Fighting_n_s016_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Fighting_n_s017_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Fighting_n_s017_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Fighting_n_s018_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Fighting_n_s018_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Fire_a_s017_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Fire_a_s017_c001.avi",
+        "class_name": "Fire",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.45402843601895737
+            ],
+            [
+                0.5758293838862559,
+                0.7767772511848341
+            ],
+            [
+                0.904739336492891,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Fire_a_s001_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Fire_a_s001_c001.avi",
+        "class_name": "Fire",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.6926406926406926,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Fire_a_s002_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Fire_a_s002_c001.avi",
+        "class_name": "Fire",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.44703977798334876
+            ],
+            [
+                0.5275208140610546,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Fire_a_s003_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Fire_a_s003_c001.avi",
+        "class_name": "Fire",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.5039968025579536,
+                0.898880895283773
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Fire_a_s004_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Fire_a_s004_c001.avi",
+        "class_name": "Fire",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.4208754208754209,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Fire_a_s005_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Fire_a_s005_c001.avi",
+        "class_name": "Fire",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.017350157728706624,
+                0.6861198738170347
+            ],
+            [
+                0.826813880126183,
+                0.8921135646687697
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Fire_a_s006_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Fire_a_s006_c001.avi",
+        "class_name": "Fire",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.3159340659340659,
+                0.8571428571428571
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Fire_a_s007_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Fire_a_s007_c001.avi",
+        "class_name": "Fire",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Fire_a_s008_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Fire_a_s008_c001.avi",
+        "class_name": "Fire",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.09505915100904662
+            ],
+            [
+                0.1302713987473904,
+                0.14279749478079332
+            ],
+            [
+                0.2797494780793319,
+                0.3465553235908142
+            ],
+            [
+                0.5402922755741127,
+                0.6492693110647182
+            ],
+            [
+                0.6681976339596382,
+                0.9519832985386222
+            ],
+            [
+                0.9796798886569241,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Fire_a_s009_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Fire_a_s009_c001.avi",
+        "class_name": "Fire",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.013228434171134165,
+                0.9308640256213883
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Fire_a_s010_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Fire_a_s010_c001.avi",
+        "class_name": "Fire",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.18043917942791102,
+                0.9059520369835308
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Fire_a_s011_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Fire_a_s011_c001.avi",
+        "class_name": "Fire",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.003396867333459143,
+                0.3362898660124552
+            ],
+            [
+                0.3693149650877524,
+                0.7584449896206832
+            ],
+            [
+                0.7816569163993207,
+                0.979807510851104
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Fire_a_s012_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Fire_a_s012_c001.avi",
+        "class_name": "Fire",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.29673871824042475
+            ],
+            [
+                0.2990140310959424,
+                0.4061433447098976
+            ],
+            [
+                0.4101251422070535,
+                0.5764125900644672
+            ],
+            [
+                0.5805839969662495,
+                0.7648843382631778
+            ],
+            [
+                0.79806598407281,
+                0.9431171786120591
+            ],
+            [
+                0.953166477057262,
+                0.9677664012135002
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Fire_a_s013_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Fire_a_s013_c001.avi",
+        "class_name": "Fire",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Fire_a_s014_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Fire_a_s014_c001.avi",
+        "class_name": "Fire",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.3389129389129389
+            ],
+            [
+                0.3773929773929774,
+                0.8690716690716691
+            ],
+            [
+                0.933044733044733,
+                0.9875901875901876
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Fire_a_s015_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Fire_a_s015_c001.avi",
+        "class_name": "Fire",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.04139242357759251,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Fire_a_s016_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Fire_a_s016_c001.avi",
+        "class_name": "Fire",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Fire_a_s018_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Fire_a_s018_c001.avi",
+        "class_name": "Fire",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.4173237344303508
+            ],
+            [
+                0.4358359044680608,
+                0.5969603473888698
+            ],
+            [
+                0.6154725174265798,
+                0.7374014398354474
+            ],
+            [
+                0.7552279739458347,
+                0.9267512284310364
+            ],
+            [
+                0.9370357673408753,
+                0.942520854759456
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Fire_a_s019_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Fire_a_s019_c001.avi",
+        "class_name": "Fire",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.3686472069936287
+            ],
+            [
+                0.3802044747369981,
+                0.473403467180323
+            ],
+            [
+                0.4753296784708846,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Fire_a_s020_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Fire_a_s020_c001.avi",
+        "class_name": "Fire",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.15873909372361386
+            ],
+            [
+                0.20424054789379867,
+                0.21456046533445913
+            ],
+            [
+                0.23266722957125435,
+                0.2533070644525753
+            ],
+            [
+                0.26128154611126747,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Fire_n_s001_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Fire_n_s001_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Fire_n_s002_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Fire_n_s002_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Fire_n_s003_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Fire_n_s003_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Fire_n_s004_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Fire_n_s004_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Fire_n_s005_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Fire_n_s005_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Fire_n_s006_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Fire_n_s006_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Fire_n_s007_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Fire_n_s007_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Fire_n_s008_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Fire_n_s008_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Fire_n_s009_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Fire_n_s009_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Fire_n_s010_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Fire_n_s010_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Fire_n_s011_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Fire_n_s011_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Fire_n_s012_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Fire_n_s012_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Fire_n_s013_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Fire_n_s013_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Fire_n_s014_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Fire_n_s014_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Fire_n_s015_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Fire_n_s015_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Fire_n_s016_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Fire_n_s016_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Fire_n_s016_c002.npy",
+        "video_path": "other_datasets/lad_videos/v_Fire_n_s016_c002.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Fire_n_s017_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Fire_n_s017_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Fire_n_s018_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Fire_n_s018_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Fire_n_s019_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Fire_n_s019_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Hurt_a_s017_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Hurt_a_s017_c001.avi",
+        "class_name": "Hurt",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.004464285714285714
+            ],
+            [
+                0.5535714285714286,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Hurt_a_s001_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Hurt_a_s001_c001.avi",
+        "class_name": "Hurt",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.2876190476190476,
+                0.44
+            ],
+            [
+                0.8114285714285714,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Hurt_a_s002_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Hurt_a_s002_c001.avi",
+        "class_name": "Hurt",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Hurt_a_s003_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Hurt_a_s003_c001.avi",
+        "class_name": "Hurt",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.4146341463414634,
+                0.8170731707317073
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Hurt_a_s004_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Hurt_a_s004_c001.avi",
+        "class_name": "Hurt",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.5614973262032086,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Hurt_a_s005_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Hurt_a_s005_c001.avi",
+        "class_name": "Hurt",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.5023923444976076,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Hurt_a_s006_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Hurt_a_s006_c001.avi",
+        "class_name": "Hurt",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.09714285714285714,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Hurt_a_s007_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Hurt_a_s007_c001.avi",
+        "class_name": "Hurt",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.040268456375838924,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Hurt_a_s008_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Hurt_a_s008_c001.avi",
+        "class_name": "Hurt",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.28314917127071826
+            ],
+            [
+                0.34668508287292815,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Hurt_a_s009_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Hurt_a_s009_c001.avi",
+        "class_name": "Hurt",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.38207547169811323,
+                0.6910377358490566
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Hurt_a_s010_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Hurt_a_s010_c001.avi",
+        "class_name": "Hurt",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.09399075500770417,
+                0.7873651771956857
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Hurt_a_s011_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Hurt_a_s011_c001.avi",
+        "class_name": "Hurt",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.39634146341463417,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Hurt_a_s012_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Hurt_a_s012_c001.avi",
+        "class_name": "Hurt",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.07781201848998459,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Hurt_a_s013_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Hurt_a_s013_c001.avi",
+        "class_name": "Hurt",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.17277486910994763,
+                0.924956369982548
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Hurt_a_s014_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Hurt_a_s014_c001.avi",
+        "class_name": "Hurt",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.18911174785100288,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Hurt_a_s015_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Hurt_a_s015_c001.avi",
+        "class_name": "Hurt",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.30246913580246915,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Hurt_a_s016_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Hurt_a_s016_c001.avi",
+        "class_name": "Hurt",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0072992700729927005,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Hurt_a_s018_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Hurt_a_s018_c001.avi",
+        "class_name": "Hurt",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.06526315789473684,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Hurt_a_s019_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Hurt_a_s019_c001.avi",
+        "class_name": "Hurt",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.35412026726057905,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Hurt_a_s020_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Hurt_a_s020_c001.avi",
+        "class_name": "Hurt",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.14135021097046413,
+                0.9978902953586498
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Hurt_n_s001_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Hurt_n_s001_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Hurt_n_s002_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Hurt_n_s002_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Hurt_n_s003_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Hurt_n_s003_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Hurt_n_s004_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Hurt_n_s004_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Hurt_n_s005_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Hurt_n_s005_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Hurt_n_s006_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Hurt_n_s006_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Hurt_n_s007_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Hurt_n_s007_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Hurt_n_s008_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Hurt_n_s008_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Hurt_n_s009_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Hurt_n_s009_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Hurt_n_s010_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Hurt_n_s010_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Hurt_n_s011_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Hurt_n_s011_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Hurt_n_s011_c002.npy",
+        "video_path": "other_datasets/lad_videos/v_Hurt_n_s011_c002.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Hurt_n_s012_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Hurt_n_s012_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Hurt_n_s013_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Hurt_n_s013_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Hurt_n_s014_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Hurt_n_s014_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Hurt_n_s015_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Hurt_n_s015_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Hurt_n_s016_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Hurt_n_s016_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Hurt_n_s017_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Hurt_n_s017_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Hurt_n_s018_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Hurt_n_s018_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Hurt_n_s019_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Hurt_n_s019_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Loitering_a_s016_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Loitering_a_s016_c001.avi",
+        "class_name": "Loitering",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.2160929075072584,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Loitering_a_s001_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Loitering_a_s001_c001.avi",
+        "class_name": "Loitering",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.2696929238985314,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Loitering_a_s002_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Loitering_a_s002_c001.avi",
+        "class_name": "Loitering",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0893854748603352,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Loitering_a_s003_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Loitering_a_s003_c001.avi",
+        "class_name": "Loitering",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.1232876712328767,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Loitering_a_s004_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Loitering_a_s004_c001.avi",
+        "class_name": "Loitering",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.24355300859598855,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Loitering_a_s005_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Loitering_a_s005_c001.avi",
+        "class_name": "Loitering",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.5608308605341247,
+                0.9406528189910979
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Loitering_a_s006_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Loitering_a_s006_c001.avi",
+        "class_name": "Loitering",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.7375886524822695
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Loitering_a_s007_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Loitering_a_s007_c001.avi",
+        "class_name": "Loitering",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Loitering_a_s008_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Loitering_a_s008_c001.avi",
+        "class_name": "Loitering",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Loitering_a_s009_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Loitering_a_s009_c001.avi",
+        "class_name": "Loitering",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.7686318131256952
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Loitering_a_s010_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Loitering_a_s010_c001.avi",
+        "class_name": "Loitering",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.3262350936967632,
+                0.9369676320272572
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Loitering_a_s011_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Loitering_a_s011_c001.avi",
+        "class_name": "Loitering",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.16358024691358025,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Loitering_a_s012_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Loitering_a_s012_c001.avi",
+        "class_name": "Loitering",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.7435456110154905
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Loitering_a_s013_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Loitering_a_s013_c001.avi",
+        "class_name": "Loitering",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.1584385763490241,
+                0.9644087256027555
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Loitering_a_s014_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Loitering_a_s014_c001.avi",
+        "class_name": "Loitering",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.1366120218579235,
+                0.9038251366120219
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Loitering_a_s015_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Loitering_a_s015_c001.avi",
+        "class_name": "Loitering",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.6196078431372549,
+                0.9137254901960784
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Loitering_a_s016_c002.npy",
+        "video_path": "other_datasets/lad_videos/v_Loitering_a_s016_c002.avi",
+        "class_name": "Loitering",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.5681486880466472
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Loitering_a_s017_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Loitering_a_s017_c001.avi",
+        "class_name": "Loitering",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Loitering_a_s018_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Loitering_a_s018_c001.avi",
+        "class_name": "Loitering",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.3592310772927513,
+                0.7084501401682018
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Loitering_a_s019_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Loitering_a_s019_c001.avi",
+        "class_name": "Loitering",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.17220902612826602,
+                0.936658749010293
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Loitering_n_s001_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Loitering_n_s001_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Loitering_n_s002_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Loitering_n_s002_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Loitering_n_s003_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Loitering_n_s003_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Loitering_n_s004_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Loitering_n_s004_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Loitering_n_s005_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Loitering_n_s005_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Loitering_n_s006_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Loitering_n_s006_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Loitering_n_s007_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Loitering_n_s007_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Loitering_n_s008_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Loitering_n_s008_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Loitering_n_s008_c002.npy",
+        "video_path": "other_datasets/lad_videos/v_Loitering_n_s008_c002.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Loitering_n_s009_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Loitering_n_s009_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Loitering_n_s010_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Loitering_n_s010_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Loitering_n_s011_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Loitering_n_s011_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Loitering_n_s012_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Loitering_n_s012_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Loitering_n_s012_c002.npy",
+        "video_path": "other_datasets/lad_videos/v_Loitering_n_s012_c002.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Loitering_n_s013_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Loitering_n_s013_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Loitering_n_s013_c002.npy",
+        "video_path": "other_datasets/lad_videos/v_Loitering_n_s013_c002.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Loitering_n_s013_c003.npy",
+        "video_path": "other_datasets/lad_videos/v_Loitering_n_s013_c003.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Loitering_n_s013_c004.npy",
+        "video_path": "other_datasets/lad_videos/v_Loitering_n_s013_c004.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Loitering_n_s013_c005.npy",
+        "video_path": "other_datasets/lad_videos/v_Loitering_n_s013_c005.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Loitering_n_s014_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Loitering_n_s014_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Panic_a_s017_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Panic_a_s017_c001.avi",
+        "class_name": "Panic",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.7341040462427746,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Panic_a_s001_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Panic_a_s001_c001.avi",
+        "class_name": "Panic",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Panic_a_s002_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Panic_a_s002_c001.avi",
+        "class_name": "Panic",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.6655660377358491,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Panic_a_s003_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Panic_a_s003_c001.avi",
+        "class_name": "Panic",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.48104693140794225,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Panic_a_s004_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Panic_a_s004_c001.avi",
+        "class_name": "Panic",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.5795246800731262,
+                0.9407678244972578
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Panic_a_s005_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Panic_a_s005_c001.avi",
+        "class_name": "Panic",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Panic_a_s006_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Panic_a_s006_c001.avi",
+        "class_name": "Panic",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.423728813559322,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Panic_a_s007_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Panic_a_s007_c001.avi",
+        "class_name": "Panic",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.21604938271604937,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Panic_a_s008_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Panic_a_s008_c001.avi",
+        "class_name": "Panic",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.7894736842105263
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Panic_a_s009_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Panic_a_s009_c001.avi",
+        "class_name": "Panic",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.16861510791366907,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Panic_a_s010_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Panic_a_s010_c001.avi",
+        "class_name": "Panic",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.07628865979381444,
+                0.27628865979381445
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Panic_a_s011_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Panic_a_s011_c001.avi",
+        "class_name": "Panic",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.29756795422031473,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Panic_a_s012_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Panic_a_s012_c001.avi",
+        "class_name": "Panic",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.4176470588235294,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Panic_a_s013_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Panic_a_s013_c001.avi",
+        "class_name": "Panic",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.3333333333333333,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Panic_a_s014_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Panic_a_s014_c001.avi",
+        "class_name": "Panic",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.21621621621621623,
+                0.7027027027027027
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Panic_a_s015_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Panic_a_s015_c001.avi",
+        "class_name": "Panic",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.1779816513761468,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Panic_a_s016_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Panic_a_s016_c001.avi",
+        "class_name": "Panic",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.1669921875,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Panic_a_s018_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Panic_a_s018_c001.avi",
+        "class_name": "Panic",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.8518164435946463
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Panic_a_s019_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Panic_a_s019_c001.avi",
+        "class_name": "Panic",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.12362637362637363,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Panic_a_s020_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Panic_a_s020_c001.avi",
+        "class_name": "Panic",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.562390158172232,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Panic_n_s001_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Panic_n_s001_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Panic_n_s002_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Panic_n_s002_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Panic_n_s003_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Panic_n_s003_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Panic_n_s004_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Panic_n_s004_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Panic_n_s005_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Panic_n_s005_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Panic_n_s006_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Panic_n_s006_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Panic_n_s007_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Panic_n_s007_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Panic_n_s008_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Panic_n_s008_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Panic_n_s009_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Panic_n_s009_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Panic_n_s009_c002.npy",
+        "video_path": "other_datasets/lad_videos/v_Panic_n_s009_c002.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Panic_n_s010_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Panic_n_s010_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Panic_n_s011_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Panic_n_s011_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Panic_n_s012_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Panic_n_s012_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Panic_n_s013_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Panic_n_s013_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Panic_n_s014_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Panic_n_s014_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Panic_n_s014_c002.npy",
+        "video_path": "other_datasets/lad_videos/v_Panic_n_s014_c002.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Panic_n_s014_c003.npy",
+        "video_path": "other_datasets/lad_videos/v_Panic_n_s014_c003.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Panic_n_s015_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Panic_n_s015_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Panic_n_s016_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Panic_n_s016_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Panic_n_s017_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Panic_n_s017_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Thiefing_a_s016_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Thiefing_a_s016_c001.avi",
+        "class_name": "Thiefing",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.5953446732318711,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Thiefing_a_s001_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Thiefing_a_s001_c001.avi",
+        "class_name": "Thiefing",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.5811764705882353,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Thiefing_a_s002_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Thiefing_a_s002_c001.avi",
+        "class_name": "Thiefing",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.8281938325991189,
+                0.933920704845815
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Thiefing_a_s003_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Thiefing_a_s003_c001.avi",
+        "class_name": "Thiefing",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.10027855153203342,
+                0.3788300835654596
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Thiefing_a_s004_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Thiefing_a_s004_c001.avi",
+        "class_name": "Thiefing",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.4575971731448763,
+                0.833922261484099
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Thiefing_a_s005_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Thiefing_a_s005_c001.avi",
+        "class_name": "Thiefing",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.20080321285140562,
+                0.6506024096385542
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Thiefing_a_s006_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Thiefing_a_s006_c001.avi",
+        "class_name": "Thiefing",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.3781190019193858
+            ],
+            [
+                0.8637236084452975,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Thiefing_a_s007_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Thiefing_a_s007_c001.avi",
+        "class_name": "Thiefing",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.2517985611510791,
+                0.9112709832134293
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Thiefing_a_s008_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Thiefing_a_s008_c001.avi",
+        "class_name": "Thiefing",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.6730310262529833,
+                0.9832935560859188
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Thiefing_a_s009_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Thiefing_a_s009_c001.avi",
+        "class_name": "Thiefing",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.6131386861313869,
+                0.9226277372262773
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Thiefing_a_s010_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Thiefing_a_s010_c001.avi",
+        "class_name": "Thiefing",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.051188299817184646,
+                0.31078610603290674
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Thiefing_a_s011_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Thiefing_a_s011_c001.avi",
+        "class_name": "Thiefing",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.005484460694698354,
+                0.4259597806215722
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Thiefing_a_s012_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Thiefing_a_s012_c001.avi",
+        "class_name": "Thiefing",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.3110367892976589,
+                0.8963210702341137
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Thiefing_a_s013_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Thiefing_a_s013_c001.avi",
+        "class_name": "Thiefing",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.1414141414141414,
+                0.24915824915824916
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Thiefing_a_s014_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Thiefing_a_s014_c001.avi",
+        "class_name": "Thiefing",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.494148244473342,
+                0.8374512353706112
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Thiefing_a_s015_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Thiefing_a_s015_c001.avi",
+        "class_name": "Thiefing",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.25654450261780104,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Thiefing_a_s017_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Thiefing_a_s017_c001.avi",
+        "class_name": "Thiefing",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.34916201117318435,
+                0.5363128491620112
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Thiefing_a_s017_c002.npy",
+        "video_path": "other_datasets/lad_videos/v_Thiefing_a_s017_c002.avi",
+        "class_name": "Thiefing",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.15865384615384615,
+                0.4543269230769231
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Thiefing_a_s018_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Thiefing_a_s018_c001.avi",
+        "class_name": "Thiefing",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.30952380952380953,
+                0.7582417582417582
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Thiefing_a_s019_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Thiefing_a_s019_c001.avi",
+        "class_name": "Thiefing",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.03724928366762178,
+                0.7163323782234957
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Thiefing_n_s001_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Thiefing_n_s001_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Thiefing_n_s002_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Thiefing_n_s002_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Thiefing_n_s003_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Thiefing_n_s003_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Thiefing_n_s004_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Thiefing_n_s004_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Thiefing_n_s005_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Thiefing_n_s005_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Thiefing_n_s006_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Thiefing_n_s006_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Thiefing_n_s007_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Thiefing_n_s007_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Thiefing_n_s008_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Thiefing_n_s008_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Thiefing_n_s008_c002.npy",
+        "video_path": "other_datasets/lad_videos/v_Thiefing_n_s008_c002.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Thiefing_n_s009_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Thiefing_n_s009_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Thiefing_n_s009_c002.npy",
+        "video_path": "other_datasets/lad_videos/v_Thiefing_n_s009_c002.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Thiefing_n_s010_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Thiefing_n_s010_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Thiefing_n_s011_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Thiefing_n_s011_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Thiefing_n_s012_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Thiefing_n_s012_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Thiefing_n_s013_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Thiefing_n_s013_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Thiefing_n_s014_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Thiefing_n_s014_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Thiefing_n_s015_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Thiefing_n_s015_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Thiefing_n_s015_c002.npy",
+        "video_path": "other_datasets/lad_videos/v_Thiefing_n_s015_c002.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Thiefing_n_s016_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Thiefing_n_s016_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Thiefing_n_s017_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Thiefing_n_s017_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Trampled_a_s016_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Trampled_a_s016_c001.avi",
+        "class_name": "Trampled",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.1443850267379679,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Trampled_a_s001_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Trampled_a_s001_c001.avi",
+        "class_name": "Trampled",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.748220640569395
+            ],
+            [
+                0.8879003558718861,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Trampled_a_s002_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Trampled_a_s002_c001.avi",
+        "class_name": "Trampled",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.6271186440677966,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Trampled_a_s003_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Trampled_a_s003_c001.avi",
+        "class_name": "Trampled",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Trampled_a_s004_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Trampled_a_s004_c001.avi",
+        "class_name": "Trampled",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.17197924388435878,
+                0.6708673091178651
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Trampled_a_s005_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Trampled_a_s005_c001.avi",
+        "class_name": "Trampled",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.3468677494199536,
+                0.6339907192575406
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Trampled_a_s006_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Trampled_a_s006_c001.avi",
+        "class_name": "Trampled",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.016849199663016005,
+                0.8803706823925863
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Trampled_a_s007_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Trampled_a_s007_c001.avi",
+        "class_name": "Trampled",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.4041095890410959,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Trampled_a_s008_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Trampled_a_s008_c001.avi",
+        "class_name": "Trampled",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Trampled_a_s009_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Trampled_a_s009_c001.avi",
+        "class_name": "Trampled",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0715765247410817,
+                0.46490218642117376
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Trampled_a_s010_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Trampled_a_s010_c001.avi",
+        "class_name": "Trampled",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.790268456375839
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Trampled_a_s011_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Trampled_a_s011_c001.avi",
+        "class_name": "Trampled",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.38338192419825073
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Trampled_a_s012_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Trampled_a_s012_c001.avi",
+        "class_name": "Trampled",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.5965665236051502
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Trampled_a_s013_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Trampled_a_s013_c001.avi",
+        "class_name": "Trampled",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Trampled_a_s014_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Trampled_a_s014_c001.avi",
+        "class_name": "Trampled",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.7736369910282954,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Trampled_a_s015_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Trampled_a_s015_c001.avi",
+        "class_name": "Trampled",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.7255230125523012,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Trampled_a_s017_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Trampled_a_s017_c001.avi",
+        "class_name": "Trampled",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.10983981693363844,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Trampled_a_s018_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Trampled_a_s018_c001.avi",
+        "class_name": "Trampled",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.2558139534883721,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Trampled_a_s019_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Trampled_a_s019_c001.avi",
+        "class_name": "Trampled",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Trampled_a_s020_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Trampled_a_s020_c001.avi",
+        "class_name": "Trampled",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Trampled_n_s001_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Trampled_n_s001_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Trampled_n_s002_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Trampled_n_s002_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Trampled_n_s003_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Trampled_n_s003_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Trampled_n_s004_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Trampled_n_s004_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Trampled_n_s005_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Trampled_n_s005_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Trampled_n_s006_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Trampled_n_s006_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Trampled_n_s007_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Trampled_n_s007_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Trampled_n_s008_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Trampled_n_s008_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Trampled_n_s008_c002.npy",
+        "video_path": "other_datasets/lad_videos/v_Trampled_n_s008_c002.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Trampled_n_s009_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Trampled_n_s009_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Trampled_n_s009_c002.npy",
+        "video_path": "other_datasets/lad_videos/v_Trampled_n_s009_c002.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Trampled_n_s009_c003.npy",
+        "video_path": "other_datasets/lad_videos/v_Trampled_n_s009_c003.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Trampled_n_s010_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Trampled_n_s010_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Trampled_n_s010_c002.npy",
+        "video_path": "other_datasets/lad_videos/v_Trampled_n_s010_c002.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Trampled_n_s011_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Trampled_n_s011_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Trampled_n_s011_c002.npy",
+        "video_path": "other_datasets/lad_videos/v_Trampled_n_s011_c002.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Trampled_n_s011_c003.npy",
+        "video_path": "other_datasets/lad_videos/v_Trampled_n_s011_c003.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Trampled_n_s011_c004.npy",
+        "video_path": "other_datasets/lad_videos/v_Trampled_n_s011_c004.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Trampled_n_s011_c005.npy",
+        "video_path": "other_datasets/lad_videos/v_Trampled_n_s011_c005.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Trampled_n_s012_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Trampled_n_s012_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Violence_a_s016_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Violence_a_s016_c001.avi",
+        "class_name": "Violence",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.14640561075394506,
+                0.8112215078901227
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Violence_a_s001_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Violence_a_s001_c001.avi",
+        "class_name": "Violence",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Violence_a_s002_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Violence_a_s002_c001.avi",
+        "class_name": "Violence",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Violence_a_s003_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Violence_a_s003_c001.avi",
+        "class_name": "Violence",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.4521193092621664
+            ],
+            [
+                0.5313971742543171,
+                0.9434850863422292
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Violence_a_s004_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Violence_a_s004_c001.avi",
+        "class_name": "Violence",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.9599447513812155
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Violence_a_s005_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Violence_a_s005_c001.avi",
+        "class_name": "Violence",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.16054421768707483,
+                0.9551020408163265
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Violence_a_s006_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Violence_a_s006_c001.avi",
+        "class_name": "Violence",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.3907811080835604,
+                0.667574931880109
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Violence_a_s007_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Violence_a_s007_c001.avi",
+        "class_name": "Violence",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.04590163934426229,
+                0.6
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Violence_a_s008_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Violence_a_s008_c001.avi",
+        "class_name": "Violence",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Violence_a_s009_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Violence_a_s009_c001.avi",
+        "class_name": "Violence",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.15092402464065707,
+                0.43737166324435317
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Violence_a_s010_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Violence_a_s010_c001.avi",
+        "class_name": "Violence",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.25862068965517243,
+                0.7729885057471264
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Violence_a_s011_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Violence_a_s011_c001.avi",
+        "class_name": "Violence",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.9562383612662942
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Violence_a_s012_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Violence_a_s012_c001.avi",
+        "class_name": "Violence",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.18354430379746836
+            ],
+            [
+                0.6044303797468354,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Violence_a_s013_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Violence_a_s013_c001.avi",
+        "class_name": "Violence",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0,
+                0.370850622406639
+            ],
+            [
+                0.7990145228215768,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Violence_a_s014_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Violence_a_s014_c001.avi",
+        "class_name": "Violence",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.039440203562340966,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Violence_a_s015_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Violence_a_s015_c001.avi",
+        "class_name": "Violence",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.04815864022662889,
+                0.3267233238904627
+            ],
+            [
+                0.3550519357884797,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Violence_a_s017_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Violence_a_s017_c001.avi",
+        "class_name": "Violence",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.24258315852562182,
+                0.8675456997302967
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Violence_a_s018_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Violence_a_s018_c001.avi",
+        "class_name": "Violence",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.043971973906740756,
+                0.29451558347426915
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Violence_a_s019_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Violence_a_s019_c001.avi",
+        "class_name": "Violence",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.10704225352112676,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Violence_a_s020_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Violence_a_s020_c001.avi",
+        "class_name": "Violence",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.38950892857142855,
+                0.5290178571428571
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/lad_features/v_Violence_n_s001_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Violence_n_s001_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Violence_n_s002_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Violence_n_s002_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Violence_n_s003_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Violence_n_s003_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Violence_n_s004_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Violence_n_s004_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Violence_n_s005_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Violence_n_s005_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Violence_n_s006_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Violence_n_s006_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Violence_n_s007_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Violence_n_s007_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Violence_n_s008_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Violence_n_s008_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Violence_n_s009_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Violence_n_s009_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Violence_n_s010_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Violence_n_s010_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Violence_n_s011_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Violence_n_s011_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Violence_n_s012_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Violence_n_s012_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Violence_n_s013_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Violence_n_s013_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Violence_n_s014_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Violence_n_s014_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Violence_n_s014_c002.npy",
+        "video_path": "other_datasets/lad_videos/v_Violence_n_s014_c002.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Violence_n_s015_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Violence_n_s015_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Violence_n_s016_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Violence_n_s016_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Violence_n_s017_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Violence_n_s017_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Violence_n_s018_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Violence_n_s018_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/lad_features/v_Violence_n_s019_c001.npy",
+        "video_path": "other_datasets/lad_videos/v_Violence_n_s019_c001.avi",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    }
+]

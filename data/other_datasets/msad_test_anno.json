@@ -1,0 +1,2282 @@
+[
+    {
+        "path": "other_datasets/msad_features/Assault_2.npy",
+        "video_path": "other_datasets/msad_videos/Assault_2.mp4",
+        "class_name": "Assault",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0847457627118644,
+                0.847457627118644
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Assault_4.npy",
+        "video_path": "other_datasets/msad_videos/Assault_4.mp4",
+        "class_name": "Assault",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.001941747572815534,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Assault_7.npy",
+        "video_path": "other_datasets/msad_videos/Assault_7.mp4",
+        "class_name": "Assault",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.5614973262032086,
+                0.6684491978609626
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Assault_8.npy",
+        "video_path": "other_datasets/msad_videos/Assault_8.mp4",
+        "class_name": "Assault",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.13106796116504854,
+                0.46601941747572817
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Assault_11.npy",
+        "video_path": "other_datasets/msad_videos/Assault_11.mp4",
+        "class_name": "Assault",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0012254901960784314,
+                0.30637254901960786
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Assault_13.npy",
+        "video_path": "other_datasets/msad_videos/Assault_13.mp4",
+        "class_name": "Assault",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0011641443538998836,
+                0.640279394644936
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Assault_14.npy",
+        "video_path": "other_datasets/msad_videos/Assault_14.mp4",
+        "class_name": "Assault",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.16194331983805668,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Assault_15.npy",
+        "video_path": "other_datasets/msad_videos/Assault_15.mp4",
+        "class_name": "Assault",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.1509433962264151,
+                0.5660377358490566
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Explosion_1.npy",
+        "video_path": "other_datasets/msad_videos/Explosion_1.mp4",
+        "class_name": "Explosion",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0136986301369863,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Explosion_3.npy",
+        "video_path": "other_datasets/msad_videos/Explosion_3.mp4",
+        "class_name": "Explosion",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.9680851063829787,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Explosion_5.npy",
+        "video_path": "other_datasets/msad_videos/Explosion_5.mp4",
+        "class_name": "Explosion",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.23715415019762845,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Explosion_7.npy",
+        "video_path": "other_datasets/msad_videos/Explosion_7.mp4",
+        "class_name": "Explosion",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.215311004784689,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Explosion_9.npy",
+        "video_path": "other_datasets/msad_videos/Explosion_9.mp4",
+        "class_name": "Explosion",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.3937007874015748,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Explosion_11.npy",
+        "video_path": "other_datasets/msad_videos/Explosion_11.mp4",
+        "class_name": "Explosion",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.18552875695732837,
+                0.8905380333951762
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Explosion_13.npy",
+        "video_path": "other_datasets/msad_videos/Explosion_13.mp4",
+        "class_name": "Explosion",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.5914454277286135,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Explosion_15.npy",
+        "video_path": "other_datasets/msad_videos/Explosion_15.mp4",
+        "class_name": "Explosion",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.3001531393568147,
+                0.8269525267993875
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Fighting_3.npy",
+        "video_path": "other_datasets/msad_videos/Fighting_3.mp4",
+        "class_name": "Fighting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.4622093023255814,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Fighting_4.npy",
+        "video_path": "other_datasets/msad_videos/Fighting_4.mp4",
+        "class_name": "Fighting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.16733067729083664,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Fighting_7.npy",
+        "video_path": "other_datasets/msad_videos/Fighting_7.mp4",
+        "class_name": "Fighting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.002369668246445498,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Fighting_10.npy",
+        "video_path": "other_datasets/msad_videos/Fighting_10.mp4",
+        "class_name": "Fighting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.2141623488773748,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Fighting_12.npy",
+        "video_path": "other_datasets/msad_videos/Fighting_12.mp4",
+        "class_name": "Fighting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.4149933065595716,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Fighting_13.npy",
+        "video_path": "other_datasets/msad_videos/Fighting_13.mp4",
+        "class_name": "Fighting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.4748118123914302,
+                0.9380428488708743
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Fire_2.npy",
+        "video_path": "other_datasets/msad_videos/Fire_2.mp4",
+        "class_name": "Fire",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.004651162790697674,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Fire_4.npy",
+        "video_path": "other_datasets/msad_videos/Fire_4.mp4",
+        "class_name": "Fire",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0017953321364452424,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Fire_6.npy",
+        "video_path": "other_datasets/msad_videos/Fire_6.mp4",
+        "class_name": "Fire",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.4959016393442623,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Fire_8.npy",
+        "video_path": "other_datasets/msad_videos/Fire_8.mp4",
+        "class_name": "Fire",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0033333333333333335,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Fire_11.npy",
+        "video_path": "other_datasets/msad_videos/Fire_11.mp4",
+        "class_name": "Fire",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.00546448087431694,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Fire_12.npy",
+        "video_path": "other_datasets/msad_videos/Fire_12.mp4",
+        "class_name": "Fire",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.5974842767295597,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Fire_15.npy",
+        "video_path": "other_datasets/msad_videos/Fire_15.mp4",
+        "class_name": "Fire",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.001652892561983471,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Fire_16.npy",
+        "video_path": "other_datasets/msad_videos/Fire_16.mp4",
+        "class_name": "Fire",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0013386880856760374,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Fire_20.npy",
+        "video_path": "other_datasets/msad_videos/Fire_20.mp4",
+        "class_name": "Fire",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.002304147465437788,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Fire_21.npy",
+        "video_path": "other_datasets/msad_videos/Fire_21.mp4",
+        "class_name": "Fire",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.04792332268370607,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Fire_22.npy",
+        "video_path": "other_datasets/msad_videos/Fire_22.mp4",
+        "class_name": "Fire",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.2619589977220957,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Fire_24.npy",
+        "video_path": "other_datasets/msad_videos/Fire_24.mp4",
+        "class_name": "Fire",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.6477732793522267,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Object_falling_3.npy",
+        "video_path": "other_datasets/msad_videos/Object_falling_3.mp4",
+        "class_name": "Object_falling",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0011235955056179776,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Object_falling_4.npy",
+        "video_path": "other_datasets/msad_videos/Object_falling_4.mp4",
+        "class_name": "Object_falling",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.3695652173913043,
+                0.8695652173913043
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Object_falling_7.npy",
+        "video_path": "other_datasets/msad_videos/Object_falling_7.mp4",
+        "class_name": "Object_falling",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.4949238578680203,
+                0.8324873096446701
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Object_falling_9.npy",
+        "video_path": "other_datasets/msad_videos/Object_falling_9.mp4",
+        "class_name": "Object_falling",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0009478672985781991,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Object_falling_11.npy",
+        "video_path": "other_datasets/msad_videos/Object_falling_11.mp4",
+        "class_name": "Object_falling",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.40554156171284633,
+                0.5793450881612091
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Object_falling_14.npy",
+        "video_path": "other_datasets/msad_videos/Object_falling_14.mp4",
+        "class_name": "Object_falling",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.27848101265822783,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Object_falling_15.npy",
+        "video_path": "other_datasets/msad_videos/Object_falling_15.mp4",
+        "class_name": "Object_falling",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.025167785234899327,
+                0.10067114093959731
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Object_falling_17.npy",
+        "video_path": "other_datasets/msad_videos/Object_falling_17.mp4",
+        "class_name": "Object_falling",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.6456692913385826,
+                0.910761154855643
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Object_falling_19.npy",
+        "video_path": "other_datasets/msad_videos/Object_falling_19.mp4",
+        "class_name": "Object_falling",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.1744186046511628,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Object_falling_21.npy",
+        "video_path": "other_datasets/msad_videos/Object_falling_21.mp4",
+        "class_name": "Object_falling",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.3959731543624161,
+                0.5055928411633109
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/People_falling_1.npy",
+        "video_path": "other_datasets/msad_videos/People_falling_1.mp4",
+        "class_name": "People_falling",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.13109756097560976,
+                0.3231707317073171
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/People_falling_3.npy",
+        "video_path": "other_datasets/msad_videos/People_falling_3.mp4",
+        "class_name": "People_falling",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.7542372881355932,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/People_falling_5.npy",
+        "video_path": "other_datasets/msad_videos/People_falling_5.mp4",
+        "class_name": "People_falling",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.5333333333333333,
+                0.8238095238095238
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/People_falling_7.npy",
+        "video_path": "other_datasets/msad_videos/People_falling_7.mp4",
+        "class_name": "People_falling",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.35766423357664234,
+                0.6605839416058394
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/People_falling_10.npy",
+        "video_path": "other_datasets/msad_videos/People_falling_10.mp4",
+        "class_name": "People_falling",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.4602649006622517,
+                0.7814569536423841
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/People_falling_11.npy",
+        "video_path": "other_datasets/msad_videos/People_falling_11.mp4",
+        "class_name": "People_falling",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.1902654867256637,
+                0.588495575221239
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/People_falling_14.npy",
+        "video_path": "other_datasets/msad_videos/People_falling_14.mp4",
+        "class_name": "People_falling",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.29333333333333333,
+                0.6088888888888889
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/People_falling_16.npy",
+        "video_path": "other_datasets/msad_videos/People_falling_16.mp4",
+        "class_name": "People_falling",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.3205574912891986,
+                0.5609756097560976
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/People_falling_18.npy",
+        "video_path": "other_datasets/msad_videos/People_falling_18.mp4",
+        "class_name": "People_falling",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.20567375886524822,
+                0.3546099290780142
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/People_falling_20.npy",
+        "video_path": "other_datasets/msad_videos/People_falling_20.mp4",
+        "class_name": "People_falling",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.2619047619047619,
+                0.5317460317460317
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/People_falling_23.npy",
+        "video_path": "other_datasets/msad_videos/People_falling_23.mp4",
+        "class_name": "People_falling",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.1469387755102041,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/People_falling_24.npy",
+        "video_path": "other_datasets/msad_videos/People_falling_24.mp4",
+        "class_name": "People_falling",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.6445497630331753,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/People_falling_25.npy",
+        "video_path": "other_datasets/msad_videos/People_falling_25.mp4",
+        "class_name": "People_falling",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.358974358974359,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/People_falling_26.npy",
+        "video_path": "other_datasets/msad_videos/People_falling_26.mp4",
+        "class_name": "People_falling",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.35398230088495575,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/People_falling_28.npy",
+        "video_path": "other_datasets/msad_videos/People_falling_28.mp4",
+        "class_name": "People_falling",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.5344827586206896,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/People_falling_31.npy",
+        "video_path": "other_datasets/msad_videos/People_falling_31.mp4",
+        "class_name": "People_falling",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.4927536231884058,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/People_falling_32.npy",
+        "video_path": "other_datasets/msad_videos/People_falling_32.mp4",
+        "class_name": "People_falling",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.1962134251290878,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/People_falling_36.npy",
+        "video_path": "other_datasets/msad_videos/People_falling_36.mp4",
+        "class_name": "People_falling",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.6094420600858369,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/People_falling_37.npy",
+        "video_path": "other_datasets/msad_videos/People_falling_37.mp4",
+        "class_name": "People_falling",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.5,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/People_falling_38.npy",
+        "video_path": "other_datasets/msad_videos/People_falling_38.mp4",
+        "class_name": "People_falling",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.3346613545816733,
+                0.8844621513944223
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/People_falling_40.npy",
+        "video_path": "other_datasets/msad_videos/People_falling_40.mp4",
+        "class_name": "People_falling",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.47058823529411764,
+                0.7867647058823529
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/People_falling_42.npy",
+        "video_path": "other_datasets/msad_videos/People_falling_42.mp4",
+        "class_name": "People_falling",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.19911504424778761,
+                0.6991150442477876
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Robbery_2.npy",
+        "video_path": "other_datasets/msad_videos/Robbery_2.mp4",
+        "class_name": "Robbery",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.5774193548387097,
+                0.967741935483871
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Robbery_4.npy",
+        "video_path": "other_datasets/msad_videos/Robbery_4.mp4",
+        "class_name": "Robbery",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.08438818565400844,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Robbery_7.npy",
+        "video_path": "other_datasets/msad_videos/Robbery_7.mp4",
+        "class_name": "Robbery",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.023255813953488372,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Robbery_8.npy",
+        "video_path": "other_datasets/msad_videos/Robbery_8.mp4",
+        "class_name": "Robbery",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.4716981132075472,
+                0.8726415094339622
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Robbery_11.npy",
+        "video_path": "other_datasets/msad_videos/Robbery_11.mp4",
+        "class_name": "Robbery",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0670391061452514,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Robbery_13.npy",
+        "video_path": "other_datasets/msad_videos/Robbery_13.mp4",
+        "class_name": "Robbery",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.09327548806941431,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Robbery_15.npy",
+        "video_path": "other_datasets/msad_videos/Robbery_15.mp4",
+        "class_name": "Robbery",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0029940119760479044,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Robbery_17.npy",
+        "video_path": "other_datasets/msad_videos/Robbery_17.mp4",
+        "class_name": "Robbery",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.07952286282306163,
+                0.21868787276341947
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Robbery_19.npy",
+        "video_path": "other_datasets/msad_videos/Robbery_19.mp4",
+        "class_name": "Robbery",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.16853932584269662,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Robbery_21.npy",
+        "video_path": "other_datasets/msad_videos/Robbery_21.mp4",
+        "class_name": "Robbery",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.13280212483399734,
+                0.796812749003984
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Robbery_23.npy",
+        "video_path": "other_datasets/msad_videos/Robbery_23.mp4",
+        "class_name": "Robbery",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.004424778761061947,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Robbery_27.npy",
+        "video_path": "other_datasets/msad_videos/Robbery_27.mp4",
+        "class_name": "Robbery",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0017761989342806395,
+                0.9236234458259325
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Robbery_28.npy",
+        "video_path": "other_datasets/msad_videos/Robbery_28.mp4",
+        "class_name": "Robbery",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0013966480446927375,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Robbery_29.npy",
+        "video_path": "other_datasets/msad_videos/Robbery_29.mp4",
+        "class_name": "Robbery",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.18867924528301888,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Shooting_2.npy",
+        "video_path": "other_datasets/msad_videos/Shooting_2.mp4",
+        "class_name": "Shooting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.3628691983122363,
+                0.9409282700421941
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Shooting_4.npy",
+        "video_path": "other_datasets/msad_videos/Shooting_4.mp4",
+        "class_name": "Shooting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0035211267605633804,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Shooting_5.npy",
+        "video_path": "other_datasets/msad_videos/Shooting_5.mp4",
+        "class_name": "Shooting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.005649717514124294,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Shooting_6.npy",
+        "video_path": "other_datasets/msad_videos/Shooting_6.mp4",
+        "class_name": "Shooting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0970873786407767,
+                0.8090614886731392
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Shooting_10.npy",
+        "video_path": "other_datasets/msad_videos/Shooting_10.mp4",
+        "class_name": "Shooting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.14396456256921372,
+                0.46511627906976744
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Shooting_12.npy",
+        "video_path": "other_datasets/msad_videos/Shooting_12.mp4",
+        "class_name": "Shooting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.5580357142857143,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Shooting_13.npy",
+        "video_path": "other_datasets/msad_videos/Shooting_13.mp4",
+        "class_name": "Shooting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.31476997578692495,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Shooting_16.npy",
+        "video_path": "other_datasets/msad_videos/Shooting_16.mp4",
+        "class_name": "Shooting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.00411522633744856,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Shooting_17.npy",
+        "video_path": "other_datasets/msad_videos/Shooting_17.mp4",
+        "class_name": "Shooting",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.45544554455445546,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Traffic_accident_2.npy",
+        "video_path": "other_datasets/msad_videos/Traffic_accident_2.mp4",
+        "class_name": "Traffic_accident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.4644808743169399,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Traffic_accident_4.npy",
+        "video_path": "other_datasets/msad_videos/Traffic_accident_4.mp4",
+        "class_name": "Traffic_accident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.002976190476190476,
+                0.23809523809523808
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Traffic_accident_7.npy",
+        "video_path": "other_datasets/msad_videos/Traffic_accident_7.mp4",
+        "class_name": "Traffic_accident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.16759776536312848,
+                0.6145251396648045
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Traffic_accident_8.npy",
+        "video_path": "other_datasets/msad_videos/Traffic_accident_8.mp4",
+        "class_name": "Traffic_accident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.02824858757062147,
+                0.5932203389830508
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Traffic_accident_11.npy",
+        "video_path": "other_datasets/msad_videos/Traffic_accident_11.mp4",
+        "class_name": "Traffic_accident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.3412969283276451,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Traffic_accident_12.npy",
+        "video_path": "other_datasets/msad_videos/Traffic_accident_12.mp4",
+        "class_name": "Traffic_accident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.12919896640826872,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Traffic_accident_15.npy",
+        "video_path": "other_datasets/msad_videos/Traffic_accident_15.mp4",
+        "class_name": "Traffic_accident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.35,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Traffic_accident_16.npy",
+        "video_path": "other_datasets/msad_videos/Traffic_accident_16.mp4",
+        "class_name": "Traffic_accident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.3557312252964427,
+                0.6324110671936759
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Traffic_accident_19.npy",
+        "video_path": "other_datasets/msad_videos/Traffic_accident_19.mp4",
+        "class_name": "Traffic_accident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.00425531914893617,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Traffic_accident_20.npy",
+        "video_path": "other_datasets/msad_videos/Traffic_accident_20.mp4",
+        "class_name": "Traffic_accident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.7540603248259861,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Traffic_accident_21.npy",
+        "video_path": "other_datasets/msad_videos/Traffic_accident_21.mp4",
+        "class_name": "Traffic_accident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.16570605187319884,
+                0.24495677233429394
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Traffic_accident_23.npy",
+        "video_path": "other_datasets/msad_videos/Traffic_accident_23.mp4",
+        "class_name": "Traffic_accident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.2777777777777778,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Traffic_accident_25.npy",
+        "video_path": "other_datasets/msad_videos/Traffic_accident_25.mp4",
+        "class_name": "Traffic_accident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.25547445255474455,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Traffic_accident_26.npy",
+        "video_path": "other_datasets/msad_videos/Traffic_accident_26.mp4",
+        "class_name": "Traffic_accident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.1477832512315271,
+                0.7980295566502463
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Traffic_accident_27.npy",
+        "video_path": "other_datasets/msad_videos/Traffic_accident_27.mp4",
+        "class_name": "Traffic_accident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.15879828326180256,
+                0.48068669527896996
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Traffic_accident_31.npy",
+        "video_path": "other_datasets/msad_videos/Traffic_accident_31.mp4",
+        "class_name": "Traffic_accident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.525879917184265,
+                0.7453416149068323
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Traffic_accident_32.npy",
+        "video_path": "other_datasets/msad_videos/Traffic_accident_32.mp4",
+        "class_name": "Traffic_accident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.5655526992287918,
+                0.8354755784061697
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Traffic_accident_35.npy",
+        "video_path": "other_datasets/msad_videos/Traffic_accident_35.mp4",
+        "class_name": "Traffic_accident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.5061728395061729,
+                0.654320987654321
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Traffic_accident_36.npy",
+        "video_path": "other_datasets/msad_videos/Traffic_accident_36.mp4",
+        "class_name": "Traffic_accident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.004,
+                0.46
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Traffic_accident_39.npy",
+        "video_path": "other_datasets/msad_videos/Traffic_accident_39.mp4",
+        "class_name": "Traffic_accident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.2882703777335984,
+                0.3976143141153082
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Vandalism_1.npy",
+        "video_path": "other_datasets/msad_videos/Vandalism_1.mp4",
+        "class_name": "Vandalism",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.7188434695912264,
+                0.8185443668993021
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Vandalism_3.npy",
+        "video_path": "other_datasets/msad_videos/Vandalism_3.mp4",
+        "class_name": "Vandalism",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.13267813267813267,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Vandalism_4.npy",
+        "video_path": "other_datasets/msad_videos/Vandalism_4.mp4",
+        "class_name": "Vandalism",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.7660550458715596,
+                0.8195718654434251
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Vandalism_6.npy",
+        "video_path": "other_datasets/msad_videos/Vandalism_6.mp4",
+        "class_name": "Vandalism",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.14125200642054575,
+                0.9149277688603531
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Vandalism_9.npy",
+        "video_path": "other_datasets/msad_videos/Vandalism_9.mp4",
+        "class_name": "Vandalism",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.10822510822510822,
+                0.5757575757575758
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Vandalism_12.npy",
+        "video_path": "other_datasets/msad_videos/Vandalism_12.mp4",
+        "class_name": "Vandalism",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0026109660574412533,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Water_incident_2.npy",
+        "video_path": "other_datasets/msad_videos/Water_incident_2.mp4",
+        "class_name": "Water_incident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0912863070539419,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Water_incident_4.npy",
+        "video_path": "other_datasets/msad_videos/Water_incident_4.mp4",
+        "class_name": "Water_incident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0013175230566534915,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Water_incident_6.npy",
+        "video_path": "other_datasets/msad_videos/Water_incident_6.mp4",
+        "class_name": "Water_incident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0012836970474967907,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Water_incident_8.npy",
+        "video_path": "other_datasets/msad_videos/Water_incident_8.mp4",
+        "class_name": "Water_incident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.0016835016835016834,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/Water_incident_10.npy",
+        "video_path": "other_datasets/msad_videos/Water_incident_10.mp4",
+        "class_name": "Water_incident",
+        "descriptions": null,
+        "anomaly_span": [
+            [
+                0.6414141414141414,
+                1.0
+            ]
+        ]
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_1.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_1.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_2.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_2.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_3.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_3.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_4.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_4.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_5.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_5.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_6.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_6.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_7.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_7.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_8.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_8.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_9.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_9.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_10.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_10.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_11.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_11.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_12.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_12.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_13.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_13.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_14.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_14.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_15.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_15.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_16.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_16.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_17.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_17.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_18.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_18.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_19.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_19.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_20.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_20.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_21.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_21.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_22.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_22.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_23.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_23.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_24.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_24.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_25.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_25.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_26.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_26.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_27.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_27.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_28.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_28.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_29.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_29.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_30.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_30.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_31.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_31.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_32.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_32.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_33.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_33.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_34.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_34.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_35.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_35.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_36.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_36.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_37.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_37.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_38.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_38.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_39.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_39.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_40.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_40.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_41.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_41.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_42.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_42.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_43.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_43.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_44.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_44.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_45.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_45.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_46.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_46.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_47.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_47.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_48.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_48.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_49.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_49.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_50.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_50.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_51.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_51.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_52.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_52.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_53.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_53.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_54.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_54.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_55.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_55.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_56.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_56.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_57.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_57.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_58.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_58.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_59.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_59.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_60.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_60.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_61.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_61.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_62.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_62.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_63.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_63.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_64.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_64.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_65.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_65.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_66.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_66.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_67.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_67.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_68.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_68.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_69.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_69.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_70.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_70.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_71.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_71.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_72.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_72.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_73.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_73.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_74.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_74.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_75.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_75.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_76.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_76.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_77.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_77.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_78.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_78.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_79.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_79.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_80.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_80.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_81.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_81.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_82.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_82.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_83.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_83.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_84.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_84.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_85.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_85.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_86.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_86.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_87.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_87.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_88.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_88.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_89.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_89.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_90.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_90.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_91.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_91.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_92.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_92.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_93.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_93.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_94.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_94.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_95.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_95.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_96.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_96.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_97.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_97.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_98.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_98.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_99.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_99.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_100.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_100.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_101.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_101.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_102.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_102.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_103.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_103.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_104.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_104.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_105.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_105.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_106.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_106.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_107.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_107.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_108.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_108.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_109.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_109.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_110.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_110.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_111.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_111.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_112.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_112.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_113.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_113.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_114.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_114.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_115.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_115.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_116.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_116.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_117.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_117.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_118.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_118.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_119.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_119.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    },
+    {
+        "path": "other_datasets/msad_features/MSAD_normal_testing_120.npy",
+        "video_path": "other_datasets/msad_videos/MSAD_normal_testing_120.mp4",
+        "class_name": "Normal",
+        "descriptions": null,
+        "anomaly_span": []
+    }
+]

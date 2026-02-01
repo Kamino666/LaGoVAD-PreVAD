@@ -1,0 +1,119 @@
+seed_everything : 2024
+
+trainer:
+  accelerator: gpu
+  devices: 2
+  precision: 32
+  max_epochs: 20
+  log_every_n_steps: 4
+  num_sanity_val_steps: 0
+  check_val_every_n_epoch: 1
+  logger:
+    class_path: lightning.pytorch.loggers.WandbLogger
+    init_args:
+      project: PreVAD-XD-FT
+      save_dir: ./logs
+  callbacks:
+#    - class_path: FixTQDMProgressBar
+#    - class_path: lightning.pytorch.callbacks.RichProgressBar
+    - class_path: lightning.pytorch.callbacks.LearningRateMonitor
+      init_args:
+        logging_interval: epoch
+    - class_path: lightning.pytorch.callbacks.ModelCheckpoint
+      init_args:
+        monitor: Valid/AP
+        mode: max
+        save_top_k: 1
+        verbose: True
+        auto_insert_metric_name: False
+        filename: "epoch{epoch:02d}-AP{Valid/AP:.4f}"
+    - class_path: lightning.pytorch.callbacks.ModelCheckpoint
+      init_args:
+        monitor: Valid/AUROC_1
+        mode: max
+        save_top_k: 1
+        verbose: True
+        auto_insert_metric_name: False
+        filename: "epoch{epoch:02d}-AUROC{Valid/AUROC_1:.4f}"
+    - class_path: lightning.pytorch.callbacks.ModelSummary
+      init_args:
+        max_depth: 3
+    - class_path: src.utils.SavePredResults
+      init_args:
+        output_dir: ./results
+#    - class_path: lightning.pytorch.callbacks.StochasticWeightAveraging
+#      init_args:
+#        swa_lrs: 1e-5
+#        swa_epoch_start: 0.3
+
+model:
+  class_path: models.CLIP4VAD.Clip4VADLightModel
+  init_args:
+    model_config:
+      class_path: models.CLIP4VAD.Clip4VADModelConfig
+      init_args:
+        clip_name: openai/clip-vit-base-patch16
+        hidden_size: 512
+        num_soft_prompts: 32
+        verbalizer_type:
+
+        temp_enc_type: RoFormer
+        temp_gate:
+        temp_encoder_layers: 2
+        temp_attention_heads: 4
+        temp_window_size: 25
+
+        fusion_type: co_attn
+        fusion_num_layers: 2
+
+        head_num_layers: 1
+        head_activation: gelu
+        head_norm: layernorm
+        head_kernel_size: 9
+
+        multi_head_type: sim
+        bin_head_type: adaptive
+
+        pretrained_weight_path: "best.ckpt"
+
+    training_config:
+      class_path: models.CLIP4VAD.Clip4VADTrainingConfig
+      init_args:
+        lr: 1e-5
+        weight_decay: 0.01
+        lr_scheduler_name: cosine
+        lr_scheduler_kwargs:
+          num_warmup_steps: 10
+#          num_training_steps: 4410
+
+        mil_topk_pct: 16
+        sup_mil_topk_pct: 4
+        mul_mil_topk_pct: 16
+        smooth_reg_weight: 0.0
+        sparsity_reg_weight: 0.0
+        mul_sparsity_reg_weight: 0.0
+        pseudo_sup_weight: 0.0
+        pseudo_sup_mil_weight: 0.0
+        anomaly_cap_contrastive_weight: 0.0
+        contrastive_neg_mining: n3
+        contrastive_temp: 0.02
+        score_type: binary
+        temp_gate_init: 0.0
+        save_res_mode: fix10
+        frame_time:
+          - 8
+          - 8
+          - 8
+          - 8
+          - 2
+          - 1
+          - 8
+          - 8
+
+data:
+  class_path: datasets.XDFinetuneCrossDataModule
+  init_args:
+    train_data_root: /data/datasets/PreVAD
+    val_data_root: /data/datasets/PreVAD
+    batch_size: 64
+    vis_max_len: 512

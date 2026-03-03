@@ -3,6 +3,7 @@
 <p align="center">
     <a href="https://arxiv.org/abs/2503.13160"><img src="https://img.shields.io/badge/arXiv-2503.13160-b31b1b.svg" alt="arXiv"></a>
     <a href="https://www.modelscope.cn/datasets/Kamino/PreVAD"><img src="https://img.shields.io/badge/ModelScope-PreVAD-blue" alt="ModelScope"></a>
+    <a href="https://huggingface.co/datasets/Kamino123/PreVAD"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-PreVAD-yellow" alt="Hugging Face"></a>
 </p>
 
 This repository contains the code and dataset for our ICLR 26 paper "Language-guided Open-world Video Anomaly Detection under Weak Supervision"
@@ -13,6 +14,7 @@ Video anomaly detection (VAD) aims to detect anomalies that deviate from what is
 
 ## News
 
+- **[2026.03]** We have released the PreVAD dataset on Hugging Face! 🤗
 - **[2026.02]** We have released the code of LaGoVAD! 🔥
 - **[2026.02]** Our paper has been accepted to ICLR 2026! 🎉
 - **[2025.09]** We have released the annotations and features of PreVAD dataset. We also provide the codes to build the dataset.
@@ -90,7 +92,7 @@ conda activate lagovad
 
 ### PreVAD (Training Dataset)
 
-The dataset is available at [ModelScope](https://www.modelscope.cn/datasets/Kamino/PreVAD).
+The dataset is available at [ModelScope](https://www.modelscope.cn/datasets/Kamino/PreVAD) and [Hugging Face](https://huggingface.co/datasets/Kamino123/PreVAD).
 Please download it and place it in the `data` directory.
 
 If you are interested in the code we used to build this dataset, please refer to the `data_download` folder.

@@ -14,6 +14,7 @@ Video anomaly detection (VAD) aims to detect anomalies that deviate from what is
 
 ## News
 
+- **[2026.05]** The dataset is now available for download without any application required.
 - **[2026.03]** We have released the PreVAD dataset on Hugging Face! 🤗
 - **[2026.02]** We have released the code of LaGoVAD! 🔥
 - **[2026.02]** Our paper has been accepted to ICLR 2026! 🎉
@@ -24,7 +25,7 @@ Video anomaly detection (VAD) aims to detect anomalies that deviate from what is
 We are continuously building this repo!
 
 - [x] Release PreVAD annotations and features
-- [ ] Release PreVAD raw videos
+- [x] Release PreVAD raw videos (only private sharing due to restrictions of platforms)
 - [x] Release PreVAD Data Preparation Toolkit
 - [x] Release LaGoVAD code
 - [ ] Release LaGoVAD weights
@@ -94,6 +95,8 @@ conda activate lagovad
 
 The dataset is available at [ModelScope](https://www.modelscope.cn/datasets/Kamino/PreVAD) and [Hugging Face](https://huggingface.co/datasets/Kamino123/PreVAD).
 Please download it and place it in the `data` directory.
+
+Raw videos are not included due to the restrictions from the data sources. If you need them, please contact us via email.
 
 If you are interested in the code we used to build this dataset, please refer to the `data_download` folder.
 

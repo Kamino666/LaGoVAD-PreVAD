@@ -14,6 +14,7 @@ Video anomaly detection (VAD) aims to detect anomalies that deviate from what is
 
 ## News
 
+- **[2026.05]** We have released the pretrained weights of LaGoVAD! 🚀
 - **[2026.05]** The dataset is now available for download without any application required.
 - **[2026.03]** We have released the PreVAD dataset on Hugging Face! 🤗
 - **[2026.02]** We have released the code of LaGoVAD! 🔥
@@ -28,7 +29,7 @@ We are continuously building this repo!
 - [x] Release PreVAD raw videos (only private sharing due to restrictions of platforms)
 - [x] Release PreVAD Data Preparation Toolkit
 - [x] Release LaGoVAD code
-- [ ] Release LaGoVAD weights
+- [x] Release LaGoVAD weights
 
 ## Code Structure
 
@@ -124,7 +125,7 @@ If you are interested in the code we used to build this dataset, please refer to
 
 ### 2. Evaluation
 
-1. Download pretrained models from [here]().
+1. Download pretrained models from [here](https://drive.google.com/file/d/161T7EkR64Px1cveP7_dG1xupT8IEICbM/view?usp=sharing).
 2. Prepare the evaluation dataset (see Data Preparation).
 3. Run the evaluation script:
 
@@ -134,7 +135,7 @@ If you are interested in the code we used to build this dataset, please refer to
 
 ### 3. Inference
 
-1. Download pretrained models from [here]().
+1. Download pretrained models from [here](https://drive.google.com/file/d/161T7EkR64Px1cveP7_dG1xupT8IEICbM/view?usp=sharing).
 2. Run the inference script:
 
    ```bash
